@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://degeriniogren.vercel.app/sitemap.xml
+Sitemap: https://concon016-degeriniogren.vercel.app/sitemap.xml
