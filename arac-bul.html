@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Araç Bul | Değerini Öğren</title>
+<meta name="description" content="Bütçe, segment, marka ve yakıt tipine göre filtrele; 50'den fazla model arasından sana uygun olanları listele.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://degeriniogren.vercel.app/arac-bul.html">
+<meta property="og:title" content="Araç Bul | Değerini Öğren">
+<meta property="og:description" content="Bütçe, segment, marka ve yakıt tipine göre filtrele; sana uygun modelleri listele.">
+<meta property="og:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Araç Bul | Değerini Öğren">
+<meta name="twitter:description" content="Bütçe, segment, marka ve yakıt tipine göre filtrele; sana uygun modelleri listele.">
+<meta name="twitter:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/favicon-512.png">
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", saved || (prefersDark ? "dark" : "light"));
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scroll-progress"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Değerini&nbsp;<span class="hl">Öğren</span></a>
+    <ul class="nav-links" id="navMobile">
+      <li><a href="index.html">Ana Sayfa</a></li>
+      <li><a href="arac-bul.html" class="active">Araç Bul</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
+      <li><a href="butce-rehberi.html">Bütçe Rehberi</a></li>
+      <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
+      <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
+      <li><a href="sss.html">SSS</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" role="switch" aria-checked="false" aria-label="Karanlık modu değiştir">
+        <span class="theme-toggle-track"></span>
+        <span class="theme-toggle-thumb"></span>
+      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menü">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+
+<section class="section" style="padding-bottom:24px;">
+  <div class="section-head center reveal">
+    <p class="eyebrow">50+ Model</p>
+    <h2>Bütçene uygun aracı bul</h2>
+    <p>Filtreleri kullan, sonuçlar anında güncellensin.</p>
+  </div>
+
+  <form class="filter-panel reveal" id="filterForm">
+    <div class="field">
+      <label for="fButce">Bütçe</label>
+      <select id="fButce">
+        <option value="">Tümü</option>
+        <option value="0-500000">500.000 ₺'ye kadar</option>
+        <option value="500000-800000">500.000 - 800.000 ₺</option>
+        <option value="800000-1200000">800.000 - 1.200.000 ₺</option>
+        <option value="1200000-1800000">1.200.000 - 1.800.000 ₺</option>
+        <option value="1800000-99000000">1.800.000 ₺ ve üzeri</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="fSegment">Segment</label>
+      <select id="fSegment">
+        <option value="">Tümü</option>
+        <option value="Şehir Aracı">Şehir Aracı</option>
+        <option value="Ekonomi">Ekonomi</option>
+        <option value="Orta Segment">Orta Segment</option>
+        <option value="Orta-Üst Segment">Orta-Üst Segment</option>
+        <option value="Üst Segment">Üst Segment</option>
+        <option value="Lüks">Lüks</option>
+        <option value="Ticari">Ticari</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="fMarka">Marka</label>
+      <select id="fMarka">
+        <option value="">Tümü</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="fYakit">Yakıt</label>
+      <select id="fYakit">
+        <option value="">Tümü</option>
+        <option value="Dizel">Dizel</option>
+        <option value="Benzin">Benzin</option>
+        <option value="Hybrid">Hybrid</option>
+      </select>
+    </div>
+  </form>
+
+  <p class="filter-count reveal" id="resultCount">Yükleniyor…</p>
+  <div class="result-grid reveal" id="resultGrid"></div>
+  <div class="result-empty" id="resultEmpty" style="display:none;">
+    <p>Bu kriterlere uyan model bulunamadı. Filtreleri biraz genişletmeyi dene.</p>
+  </div>
+</section>
+
+<div class="cta">
+  <h2>Aklında belirli iki model mi var?</h2>
+  <p>Yan yana koy, farkları tek bakışta gör.</p>
+  <a href="karsilastir.html" class="btn btn-accent">Karşılaştır</a>
+</div>
+
+</main>
+
+<footer class="footer">
+  <div class="foot-links">
+    <a href="index.html">Ana Sayfa</a>
+    <a href="arac-bul.html">Araç Bul</a>
+    <a href="karsilastir.html">Karşılaştır</a>
+    <a href="butce-rehberi.html">Bütçe Rehberi</a>
+    <a href="kronik-arizalar.html">Kronik Arızalar</a>
+    <a href="tramer-rehberi.html">Tramer Rehberi</a>
+    <a href="sss.html">SSS</a>
+  </div>
+  <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
+  <p class="disclaimer">Fiyat aralıkları ve oranlar genel bilgilendirme amaçlıdır; belirli bir ilana ait kesin veri yerine geçmez.</p>
+</footer>
+
+<script src="script.js"></script>
+<script src="arac-bul.js"></script>
+</body>
+</html>

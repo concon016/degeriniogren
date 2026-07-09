@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Sayfa Bulunamadı | Değerini Öğren</title>
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/favicon-512.png">
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", saved || (prefersDark ? "dark" : "light"));
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Değerini&nbsp;<span class="hl">Öğren</span></a>
+    <ul class="nav-links" id="navMobile">
+      <li><a href="index.html">Ana Sayfa</a></li>
+      <li><a href="arac-bul.html">Araç Bul</a></li>
+      <li><a href="sss.html">SSS</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" role="switch" aria-checked="false" aria-label="Karanlık modu değiştir">
+        <span class="theme-toggle-track"></span>
+        <span class="theme-toggle-thumb"></span>
+      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menü">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+<div class="notfound">
+  <div class="code">404</div>
+  <h1 style="font-size:1.4rem;margin:14px 0 10px;">Bu sayfa bulunamadı</h1>
+  <p style="color:var(--ink-muted);margin:0 0 24px;">Aradığın araç ya da sayfa taşınmış olabilir.</p>
+  <a href="arac-bul.html" class="btn btn-accent">Araç Bul'a Dön</a>
+</div>
+</main>
+
+<footer class="footer">
+  <p>&copy; 2026 Değerini Öğren.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

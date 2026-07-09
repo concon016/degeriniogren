@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bütçe Rehberi | Değerini Öğren</title>
+<meta name="description" content="Hangi bütçeye hangi segment ve yaş grubu araç alınabilir? Genel bir yol haritası — şehir aracından üst segmente kadar.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://degeriniogren.vercel.app/butce-rehberi.html">
+<meta property="og:title" content="Bütçe Rehberi | Değerini Öğren">
+<meta property="og:description" content="Hangi bütçeye hangi segment araç alınabilir? Genel bir yol haritası.">
+<meta property="og:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bütçe Rehberi | Değerini Öğren">
+<meta name="twitter:description" content="Hangi bütçeye hangi segment araç alınabilir? Genel bir yol haritası.">
+<meta name="twitter:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/favicon-512.png">
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", saved || (prefersDark ? "dark" : "light"));
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scroll-progress"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Değerini&nbsp;<span class="hl">Öğren</span></a>
+    <ul class="nav-links" id="navMobile">
+      <li><a href="index.html">Ana Sayfa</a></li>
+      <li><a href="arac-bul.html">Araç Bul</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
+      <li><a href="butce-rehberi.html" class="active">Bütçe Rehberi</a></li>
+      <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
+      <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
+      <li><a href="sss.html">SSS</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" role="switch" aria-checked="false" aria-label="Karanlık modu değiştir">
+        <span class="theme-toggle-track"></span>
+        <span class="theme-toggle-thumb"></span>
+      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menü">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+<section class="section" style="padding-bottom:20px;">
+  <div class="section-head center reveal">
+    <p class="eyebrow">Yol Haritası</p>
+    <h2>Hangi bütçeye hangi araç?</h2>
+    <p>Bu aralıklar genel bir eğilimi özetler — ilan yoğunluğu, il, hasar durumu ve pazarlık payına göre değişebilir.</p>
+  </div>
+
+  <div class="disclaimer-box reveal">
+    <strong>Not:</strong> Aşağıdaki rakamlar örnek/genel aralıklardır, canlı ilan verisi değildir. Kesin fiyat için <a href="arac-bul.html" style="color:var(--primary);font-weight:700;">Araç Bul</a> sayfasındaki modellerin değer raporlarına ve güncel ilanlara bakın.
+  </div>
+
+  <div class="guide-item reveal">
+    <span class="g-tag">Tier 1</span>
+    <h3>Şehir Aracı</h3>
+    <div class="price-tier">500.000 ₺'ye kadar</div>
+    <p>Genellikle eski model, yüksek kilometreli küçük hatchback'ler bu aralıkta. Şehir içi kullanım için yeterli, uzun yol ve aile kullanımında konfor sınırlı kalabilir.</p>
+    <ul>
+      <li>Örnek modeller: Hyundai i10, Kia Picanto, Renault Symbol, Fiat Linea</li>
+      <li>Beklenen km: genelde 150.000 km üzeri</li>
+      <li>Dikkat: bu segmentte kronik bakım geçmişini sorgulamak fiyat kadar önemli</li>
+    </ul>
+  </div>
+
+  <div class="guide-item reveal">
+    <span class="g-tag">Tier 2</span>
+    <h3>Ekonomi Segment</h3>
+    <div class="price-tier">500.000 - 800.000 ₺</div>
+    <p>Türkiye'de en yoğun ilan hacmine sahip aralık. Orta yaşlı, makul kilometreli hatchback ve sedanlar bu bantta yoğunlaşıyor.</p>
+    <ul>
+      <li>Örnek modeller: Fiat Egea, Renault Clio, Dacia Sandero, Peugeot 208, Hyundai i20</li>
+      <li>Beklenen km: genelde 50.000 - 110.000 km</li>
+      <li>Bu segmentte motor/paket seçenekleri geniş, aynı model içinde bile fiyat farkı büyük olabilir</li>
+    </ul>
+  </div>
+
+  <div class="guide-item reveal">
+    <span class="g-tag">Tier 3</span>
+    <h3>Orta Segment</h3>
+    <div class="price-tier">800.000 - 1.200.000 ₺</div>
+    <p>Daha geniş iç hacim, daha güçlü motor seçenekleri ve SUV/crossover gövde tipine giriş bu aralıkta başlıyor.</p>
+    <ul>
+      <li>Örnek modeller: Toyota Corolla, Volkswagen Golf, Dacia Duster, Renault Megane</li>
+      <li>Beklenen km: genelde 60.000 - 130.000 km</li>
+      <li>SUV/crossover modellerde ikinci el değer kaybı görece daha yavaş</li>
+    </ul>
+  </div>
+
+  <div class="guide-item reveal">
+    <span class="g-tag">Tier 4</span>
+    <h3>Orta-Üst Segment</h3>
+    <div class="price-tier">1.200.000 - 1.800.000 ₺</div>
+    <p>Daha yeni model yılları, daha düşük kilometre ve daha zengin donanım paketleri bu aralıkta öne çıkıyor.</p>
+    <ul>
+      <li>Örnek modeller: Volkswagen Passat, Peugeot 3008, Kia Sportage, Toyota C-HR</li>
+      <li>Beklenen km: genelde 40.000 - 100.000 km</li>
+      <li>Otomatik şanzıman (DSG/DCT/CVT) bakım geçmişini mutlaka sorun</li>
+    </ul>
+  </div>
+
+  <div class="guide-item reveal">
+    <span class="g-tag">Tier 5</span>
+    <h3>Üst Segment / Lüks</h3>
+    <div class="price-tier">1.800.000 ₺ ve üzeri</div>
+    <p>Premium marka sedanları ve büyük SUV'lar bu aralıkta. Alım fiyatı yüksek olsa da bakım/parça maliyeti de segmentin en yükseği.</p>
+    <ul>
+      <li>Örnek modeller: BMW 3 Serisi, Audi A4, Mercedes-Benz C Serisi, Volkswagen Tiguan</li>
+      <li>Beklenen km: genelde 40.000 - 150.000 km, model yılına göre çok değişken</li>
+      <li>Servis geçmişi ve orijinal parça kullanımı fiyat kadar belirleyici</li>
+    </ul>
+  </div>
+</section>
+
+<div class="cta">
+  <h2>Bütçeni netleştirdin mi?</h2>
+  <p>Şimdi bu aralığa uygun modelleri filtrele.</p>
+  <a href="arac-bul.html" class="btn btn-accent">Araç Bul</a>
+</div>
+
+</main>
+
+<footer class="footer">
+  <div class="foot-links">
+    <a href="index.html">Ana Sayfa</a>
+    <a href="arac-bul.html">Araç Bul</a>
+    <a href="karsilastir.html">Karşılaştır</a>
+    <a href="butce-rehberi.html">Bütçe Rehberi</a>
+    <a href="kronik-arizalar.html">Kronik Arızalar</a>
+    <a href="tramer-rehberi.html">Tramer Rehberi</a>
+    <a href="sss.html">SSS</a>
+  </div>
+  <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
+  <p class="disclaimer">Fiyat aralıkları ve oranlar genel bilgilendirme amaçlıdır; belirli bir ilana ait kesin veri yerine geçmez.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

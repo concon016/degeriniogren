@@ -1,0 +1,1031 @@
+[
+  {
+    "id": "fiat-egea",
+    "marka": "Fiat",
+    "model": "Egea",
+    "govde": "Sedan / Hatchback / SW",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2015 - günümüz",
+    "kmBandi": { "min": 40000, "max": 110000, "yaygin": "50.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 650000, "max": 980000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 Fire", "guc": "95 HP", "sanziman": "Manuel", "paket": "Easy" },
+      { "motor": "1.6 Multijet", "guc": "120 HP", "sanziman": "Manuel", "paket": "Easy / Urban / Lounge" },
+      { "motor": "1.6 Multijet", "guc": "130 HP", "sanziman": "DCT Otomatik", "paket": "Urban / Lounge" },
+      { "motor": "1.5 Hybrid", "guc": "130 HP", "sanziman": "DCT Otomatik", "paket": "Urban / Lounge" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Çift kütle volanı (DMF) yüksek kilometrede aşınabiliyor" },
+      { "seviye": "warn", "metin": "Erken dönem Multijet enjektörlerinde arıza şikayetleri" },
+      { "seviye": "good", "metin": "DCT şanzımanlarda yazılım güncellemesiyle geçişler yumuşatılabiliyor" }
+    ],
+    "tramerOrani": 38
+  },
+  {
+    "id": "fiat-egea-cross",
+    "marka": "Fiat",
+    "model": "Egea Cross",
+    "govde": "Crossover",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": { "min": 15000, "max": 70000, "yaygin": "20.000 - 55.000 km" },
+    "fiyatAraligi": { "min": 980000, "max": 1350000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 Hybrid", "guc": "130 HP", "sanziman": "DCT Otomatik", "paket": "Urban / Lounge" },
+      { "motor": "1.6 Multijet", "guc": "130 HP", "sanziman": "DCT Otomatik", "paket": "Urban / Lounge" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Yeni nesil motorlarda görece az şikayet, garanti kapsamı geniş" },
+      { "seviye": "warn", "metin": "Yüksekliği artan gövdede rüzgar sesi şikayetleri bazı üretim yıllarında" }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "fiat-linea",
+    "marka": "Fiat",
+    "model": "Linea",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2007 - 2017",
+    "kmBandi": { "min": 120000, "max": 260000, "yaygin": "150.000 - 220.000 km" },
+    "fiyatAraligi": { "min": 320000, "max": 520000 },
+    "motorSecenekleri": [
+      { "motor": "1.3 Multijet", "guc": "95 HP", "sanziman": "Manuel", "paket": "Pop / Easy / Active" },
+      { "motor": "1.6 Multijet", "guc": "120 HP", "sanziman": "Manuel", "paket": "Easy / Lounge" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Yüksek km'de turbo ve enjektör bakım kalemleri artıyor" },
+      { "seviye": "warn", "metin": "Ön amortisör/salıncak bağlantılarında yıpranma yaygın" },
+      { "seviye": "good", "metin": "Yedek parça bulunabilirliği ve servis maliyeti düşük" }
+    ],
+    "tramerOrani": 46
+  },
+  {
+    "id": "fiat-doblo",
+    "marka": "Fiat",
+    "model": "Doblo",
+    "govde": "Panelvan / Combi",
+    "yakit": "Dizel",
+    "segment": "Ticari",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 90000, "max": 220000, "yaygin": "110.000 - 180.000 km" },
+    "fiyatAraligi": { "min": 550000, "max": 950000 },
+    "motorSecenekleri": [
+      { "motor": "1.3 Multijet", "guc": "95 HP", "sanziman": "Manuel", "paket": "Combi / Cargo" },
+      { "motor": "1.6 Multijet", "guc": "120 HP", "sanziman": "Manuel", "paket": "Combi / Maxi" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Ticari yoğun kullanımda süspansiyon ve debriyaj ömrü kısalıyor" },
+      { "seviye": "good", "metin": "Basit mekanik yapı, servis maliyeti düşük" }
+    ],
+    "tramerOrani": 41
+  },
+  {
+    "id": "renault-clio",
+    "marka": "Renault",
+    "model": "Clio",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2012 - günümüz",
+    "kmBandi": { "min": 40000, "max": 130000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 620000, "max": 950000 },
+    "motorSecenekleri": [
+      { "motor": "1.0 SCe", "guc": "75 HP", "sanziman": "Manuel", "paket": "Joy / Authentique" },
+      { "motor": "1.0 TCe", "guc": "100 HP", "sanziman": "Manuel / X-Tronic", "paket": "Touch / Icon" },
+      { "motor": "1.5 dCi", "guc": "85-115 HP", "sanziman": "Manuel", "paket": "Joy / Touch / Icon" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "dCi motorlarda turbo ve EGR valfinde yüksek km sonrası arıza şikayetleri" },
+      { "seviye": "warn", "metin": "X-Tronic (CVT) şanzımanda bakımsız kullanımda erken yıpranma" },
+      { "seviye": "good", "metin": "SCe/TCe benzinli motorlar görece bakımı ucuz ve sorunsuz" }
+    ],
+    "tramerOrani": 35
+  },
+  {
+    "id": "renault-megane",
+    "marka": "Renault",
+    "model": "Megane",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2016 - günümüz",
+    "kmBandi": { "min": 40000, "max": 140000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 780000, "max": 1250000 },
+    "motorSecenekleri": [
+      { "motor": "1.3 TCe", "guc": "115-140 HP", "sanziman": "Manuel / EDC", "paket": "Joy / Touch / Icon / GT Line" },
+      { "motor": "1.5 dCi", "guc": "110-115 HP", "sanziman": "Manuel / EDC", "paket": "Touch / Icon / GT Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "EDC çift kavramalı şanzımanda şehir içi yoğun kullanımda titreşim şikayetleri" },
+      { "seviye": "warn", "metin": "1.3 TCe motorlarda zincir gerdirici sesi bazı üretim yıllarında bildiriliyor" },
+      { "seviye": "good", "metin": "İç donanım ve konfor seviyesi segmentine göre yüksek değerlendiriliyor" }
+    ],
+    "tramerOrani": 29
+  },
+  {
+    "id": "renault-symbol",
+    "marka": "Renault",
+    "model": "Symbol",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2008 - 2020",
+    "kmBandi": { "min": 100000, "max": 240000, "yaygin": "130.000 - 200.000 km" },
+    "fiyatAraligi": { "min": 350000, "max": 600000 },
+    "motorSecenekleri": [
+      { "motor": "1.2 16V", "guc": "75 HP", "sanziman": "Manuel", "paket": "Authentique / Expression" },
+      { "motor": "1.5 dCi", "guc": "75-90 HP", "sanziman": "Manuel", "paket": "Expression / Privilege" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Basit ve dayanıklı mekanik, uzun yıllar sorunsuz kullanım şikayeti düşük" },
+      { "seviye": "warn", "metin": "Yüksek km'de enjeksiyon pompası ve turbo bakımı gerekebiliyor" }
+    ],
+    "tramerOrani": 44
+  },
+  {
+    "id": "renault-fluence",
+    "marka": "Renault",
+    "model": "Fluence",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2010 - 2017",
+    "kmBandi": { "min": 100000, "max": 230000, "yaygin": "130.000 - 190.000 km" },
+    "fiyatAraligi": { "min": 420000, "max": 680000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 dCi", "guc": "90-110 HP", "sanziman": "Manuel", "paket": "Joy / Touch / Icon" },
+      { "motor": "1.6 16V", "guc": "105 HP", "sanziman": "Manuel / Otomatik", "paket": "Touch / Icon" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Otomatik şanzımanlı versiyonlarda yüksek km'de geçiş sertliği bildiriliyor" },
+      { "seviye": "good", "metin": "Geniş iç hacim, aile kullanımında tercih sebebi" }
+    ],
+    "tramerOrani": 40
+  },
+  {
+    "id": "renault-captur",
+    "marka": "Renault",
+    "model": "Captur",
+    "govde": "Crossover",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 30000, "max": 110000, "yaygin": "45.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 780000, "max": 1150000 },
+    "motorSecenekleri": [
+      { "motor": "1.0 TCe", "guc": "100 HP", "sanziman": "Manuel", "paket": "Joy / Icon" },
+      { "motor": "1.3 TCe", "guc": "130-140 HP", "sanziman": "EDC Otomatik", "paket": "Icon / R.S. Line" },
+      { "motor": "1.5 dCi", "guc": "95-115 HP", "sanziman": "Manuel / EDC", "paket": "Icon / R.S. Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "EDC şanzımanda düşük hızda yumuşak geçiş beklentisi karşılanmayabiliyor" },
+      { "seviye": "good", "metin": "SUV havası ve donanım seviyesiyle ikinci elde talep yüksek" }
+    ],
+    "tramerOrani": 25
+  },
+  {
+    "id": "dacia-duster",
+    "marka": "Dacia",
+    "model": "Duster",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 40000, "max": 150000, "yaygin": "60.000 - 120.000 km" },
+    "fiyatAraligi": { "min": 750000, "max": 1200000 },
+    "motorSecenekleri": [
+      { "motor": "1.0 TCe", "guc": "90-100 HP", "sanziman": "Manuel", "paket": "Essential / Comfort" },
+      { "motor": "1.3 TCe", "guc": "130-150 HP", "sanziman": "Manuel / EDC", "paket": "Comfort / Prestige" },
+      { "motor": "1.5 dCi", "guc": "90-115 HP", "sanziman": "Manuel", "paket": "Comfort / Prestige · 4x4 opsiyonlu" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Basit mekanik ve yüksek yerden bakım maliyeti düşük, dayanıklı olarak biliniyor" },
+      { "seviye": "warn", "metin": "4x4 versiyonlarda arazi kullanımı sonrası alt takım kontrolü önemli" }
+    ],
+    "tramerOrani": 22
+  },
+  {
+    "id": "dacia-sandero",
+    "marka": "Dacia",
+    "model": "Sandero",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 30000, "max": 120000, "yaygin": "45.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 580000, "max": 850000 },
+    "motorSecenekleri": [
+      { "motor": "1.0 SCe", "guc": "75 HP", "sanziman": "Manuel", "paket": "Access / Ambiance" },
+      { "motor": "1.0 TCe", "guc": "90-100 HP", "sanziman": "Manuel", "paket": "Comfort / Stepway" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Segmentin en düşük bakım maliyetli modellerinden, geniş parça bulunabilirliği" }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "volkswagen-passat",
+    "marka": "Volkswagen",
+    "model": "Passat",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 60000, "max": 180000, "yaygin": "90.000 - 150.000 km" },
+    "fiyatAraligi": { "min": 1100000, "max": 1900000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "120 HP", "sanziman": "Manuel / DSG", "paket": "Trendline / Comfortline" },
+      { "motor": "2.0 TDI", "guc": "150-190 HP", "sanziman": "DSG Otomatik", "paket": "Comfortline / Highline / Business" },
+      { "motor": "1.4 TSI", "guc": "150 HP", "sanziman": "DSG Otomatik", "paket": "Comfortline / Highline" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "DSG şanzımanda periyodik yağ/mekatronik bakımı ihmal edilirse maliyetli arıza riski" },
+      { "seviye": "warn", "metin": "2.0 TDI motorlarda yüksek km'de enjektör/turbo bakım kalemleri" },
+      { "seviye": "good", "metin": "Sürüş konforu ve yolcu hacmi segmentinde referans kabul ediliyor" }
+    ],
+    "tramerOrani": 27
+  },
+  {
+    "id": "volkswagen-golf",
+    "marka": "Volkswagen",
+    "model": "Golf",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2012 - günümüz",
+    "kmBandi": { "min": 50000, "max": 160000, "yaygin": "70.000 - 130.000 km" },
+    "fiyatAraligi": { "min": 950000, "max": 1600000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "105-115 HP", "sanziman": "Manuel / DSG", "paket": "Trendline / Comfortline" },
+      { "motor": "1.4 TSI", "guc": "125-150 HP", "sanziman": "Manuel / DSG", "paket": "Comfortline / Highline / GT" },
+      { "motor": "2.0 TDI", "guc": "150 HP", "sanziman": "DSG Otomatik", "paket": "Highline / GT" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "DSG mekatronik ve debriyaj setinde bakımsız kullanımda erken yıpranma" },
+      { "seviye": "warn", "metin": "TSI motorlarda zincir gerdirici ve yağ tüketimi bazı üretim yıllarında bildiriliyor" },
+      { "seviye": "good", "metin": "İkinci el değer kaybı segmentine göre görece yavaş" }
+    ],
+    "tramerOrani": 24
+  },
+  {
+    "id": "volkswagen-polo",
+    "marka": "Volkswagen",
+    "model": "Polo",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 40000, "max": 140000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 700000, "max": 1100000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 TDI", "guc": "75-90 HP", "sanziman": "Manuel", "paket": "Trendline / Comfortline" },
+      { "motor": "1.0 TSI", "guc": "95-115 HP", "sanziman": "Manuel / DSG", "paket": "Comfortline / Highline" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "1.0 TSI motorlarda erken üretim yıllarında yağ tüketimi şikayetleri" },
+      { "seviye": "good", "metin": "Şehir içi kullanımda yakıt tüketimi ve bakım maliyeti dengeli" }
+    ],
+    "tramerOrani": 26
+  },
+  {
+    "id": "volkswagen-jetta",
+    "marka": "Volkswagen",
+    "model": "Jetta",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2005 - 2018",
+    "kmBandi": { "min": 100000, "max": 240000, "yaygin": "140.000 - 200.000 km" },
+    "fiyatAraligi": { "min": 480000, "max": 780000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "105 HP", "sanziman": "Manuel", "paket": "Trendline / Comfortline" },
+      { "motor": "1.4 TSI", "guc": "122 HP", "sanziman": "Manuel / DSG", "paket": "Comfortline / Sportline" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Yüksek km'de turbo ve enjektör bakım kalemleri artıyor" },
+      { "seviye": "good", "metin": "Sağlam kaporta ve sürüş dinamiği yönünden olumlu değerlendiriliyor" }
+    ],
+    "tramerOrani": 33
+  },
+  {
+    "id": "volkswagen-tiguan",
+    "marka": "Volkswagen",
+    "model": "Tiguan",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2008 - günümüz",
+    "kmBandi": { "min": 40000, "max": 160000, "yaygin": "60.000 - 120.000 km" },
+    "fiyatAraligi": { "min": 1400000, "max": 2600000 },
+    "motorSecenekleri": [
+      { "motor": "2.0 TDI", "guc": "140-190 HP", "sanziman": "DSG Otomatik", "paket": "Trendline / Comfortline / R-Line" },
+      { "motor": "1.4 TSI", "guc": "150 HP", "sanziman": "DSG Otomatik", "paket": "Comfortline / Highline" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "4Motion (4x4) sistemde periyodik bakım ihmal edilirse ek maliyet riski" },
+      { "seviye": "good", "metin": "SUV segmentinde ikinci el talebi ve fiyat istikrarı yüksek" }
+    ],
+    "tramerOrani": 21
+  },
+  {
+    "id": "toyota-corolla",
+    "marka": "Toyota",
+    "model": "Corolla",
+    "govde": "Sedan",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Orta Segment",
+    "yilAraligi": "2007 - günümüz",
+    "kmBandi": { "min": 50000, "max": 200000, "yaygin": "80.000 - 160.000 km" },
+    "fiyatAraligi": { "min": 850000, "max": 1550000 },
+    "motorSecenekleri": [
+      { "motor": "1.6", "guc": "97-132 HP", "sanziman": "Manuel / Otomatik", "paket": "Comfort / Advance" },
+      { "motor": "1.8 Hybrid", "guc": "122 HP", "sanziman": "e-CVT Otomatik", "paket": "Comfort / Flame / Dream" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Genel güvenilirlik algısı segmentinde en yüksek modellerden, arıza şikayeti az" },
+      { "seviye": "good", "metin": "Hybrid versiyonda batarya ömrü genellikle uzun ömürlü olarak raporlanıyor" }
+    ],
+    "tramerOrani": 16
+  },
+  {
+    "id": "toyota-chr",
+    "marka": "Toyota",
+    "model": "C-HR",
+    "govde": "Crossover",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Orta Segment",
+    "yilAraligi": "2017 - günümüz",
+    "kmBandi": { "min": 30000, "max": 120000, "yaygin": "45.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 1050000, "max": 1700000 },
+    "motorSecenekleri": [
+      { "motor": "1.2 Turbo", "guc": "116 HP", "sanziman": "Manuel / CVT", "paket": "Passion / Flame" },
+      { "motor": "1.8 Hybrid", "guc": "122 HP", "sanziman": "e-CVT Otomatik", "paket": "Passion / Flame / Dream" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Hybrid sistem şikayet oranı çok düşük, batarya garanti kapsamı geniş" }
+    ],
+    "tramerOrani": 14
+  },
+  {
+    "id": "toyota-yaris",
+    "marka": "Toyota",
+    "model": "Yaris",
+    "govde": "Hatchback",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Ekonomi",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 30000, "max": 130000, "yaygin": "50.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 700000, "max": 1150000 },
+    "motorSecenekleri": [
+      { "motor": "1.5", "guc": "110 HP", "sanziman": "Manuel / Otomatik", "paket": "Passion / Flame" },
+      { "motor": "1.5 Hybrid", "guc": "116 HP", "sanziman": "e-CVT Otomatik", "paket": "Passion / Flame / Dream" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Marka geneli güvenilirlik algısıyla ikinci elde düşük risk profilinde görülüyor" }
+    ],
+    "tramerOrani": 15
+  },
+  {
+    "id": "opel-astra",
+    "marka": "Opel",
+    "model": "Astra",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2009 - günümüz",
+    "kmBandi": { "min": 50000, "max": 170000, "yaygin": "80.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 700000, "max": 1200000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 CDTI", "guc": "110-136 HP", "sanziman": "Manuel / Otomatik", "paket": "Edition / Elegance / Enjoy" },
+      { "motor": "1.4 Turbo", "guc": "125-150 HP", "sanziman": "Manuel / Otomatik", "paket": "Enjoy / Innovation / GS" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "CDTI motorlarda EGR/DPF tıkanıklığı şehir içi kısa mesafe kullanımda daha sık bildiriliyor" },
+      { "seviye": "good", "metin": "İç donanım ve sürüş konforu segmentine göre olumlu değerlendiriliyor" }
+    ],
+    "tramerOrani": 30
+  },
+  {
+    "id": "opel-corsa",
+    "marka": "Opel",
+    "model": "Corsa",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 35000, "max": 140000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 620000, "max": 950000 },
+    "motorSecenekleri": [
+      { "motor": "1.3 CDTI", "guc": "75-95 HP", "sanziman": "Manuel", "paket": "Enjoy / Elegance" },
+      { "motor": "1.4", "guc": "90 HP", "sanziman": "Manuel / Otomatik", "paket": "Enjoy / Edition" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "CDTI motorlarda yüksek km'de enjektör bakım kalemleri" }
+    ],
+    "tramerOrani": 34
+  },
+  {
+    "id": "opel-insignia",
+    "marka": "Opel",
+    "model": "Insignia",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2009 - 2022",
+    "kmBandi": { "min": 70000, "max": 200000, "yaygin": "100.000 - 160.000 km" },
+    "fiyatAraligi": { "min": 850000, "max": 1500000 },
+    "motorSecenekleri": [
+      { "motor": "2.0 CDTI", "guc": "140-170 HP", "sanziman": "Manuel / Otomatik", "paket": "Edition / Elegance / Cosmo" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Otomatik şanzımanlı versiyonlarda periyodik yağ değişimi ihmal edilirse ömür kısalıyor" },
+      { "seviye": "good", "metin": "Geniş iç hacim ve yüksek donanım seviyesiyle segment içinde donanımlı seçenek" }
+    ],
+    "tramerOrani": 28
+  },
+  {
+    "id": "hyundai-i20",
+    "marka": "Hyundai",
+    "model": "i20",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2009 - günümüz",
+    "kmBandi": { "min": 30000, "max": 130000, "yaygin": "45.000 - 95.000 km" },
+    "fiyatAraligi": { "min": 650000, "max": 1050000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 CRDI", "guc": "90 HP", "sanziman": "Manuel", "paket": "Jump / Style" },
+      { "motor": "1.4 MPI", "guc": "100 HP", "sanziman": "Manuel / Otomatik", "paket": "Style / Elite" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Genel bakım maliyeti düşük, marka geneli güvenilirlik algısı olumlu" }
+    ],
+    "tramerOrani": 24
+  },
+  {
+    "id": "hyundai-i10",
+    "marka": "Hyundai",
+    "model": "i10",
+    "govde": "Hatchback",
+    "yakit": "Benzin",
+    "segment": "Şehir Aracı",
+    "yilAraligi": "2008 - günümüz",
+    "kmBandi": { "min": 25000, "max": 120000, "yaygin": "40.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 480000, "max": 780000 },
+    "motorSecenekleri": [
+      { "motor": "1.0", "guc": "67 HP", "sanziman": "Manuel", "paket": "Jump / Style" },
+      { "motor": "1.2", "guc": "84 HP", "sanziman": "Manuel / Otomatik", "paket": "Style / Elite" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Şehir içi kullanım için düşük yakıt tüketimi ve düşük arıza şikayeti" }
+    ],
+    "tramerOrani": 19
+  },
+  {
+    "id": "hyundai-elantra",
+    "marka": "Hyundai",
+    "model": "Elantra",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 50000, "max": 170000, "yaygin": "80.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 780000, "max": 1250000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 CRDI", "guc": "128 HP", "sanziman": "Manuel / Otomatik", "paket": "Style / Elite" },
+      { "motor": "1.6 MPI", "guc": "132 HP", "sanziman": "Otomatik", "paket": "Style / Elite / Prime" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Genel arıza oranı düşük, uzun garanti kapsamıyla ikinci elde güven telkin ediyor" }
+    ],
+    "tramerOrani": 22
+  },
+  {
+    "id": "peugeot-208",
+    "marka": "Peugeot",
+    "model": "208",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2012 - günümüz",
+    "kmBandi": { "min": 35000, "max": 130000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 650000, "max": 1000000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 BlueHDi", "guc": "75-100 HP", "sanziman": "Manuel", "paket": "Active / Allure" },
+      { "motor": "1.2 PureTech", "guc": "82-100 HP", "sanziman": "Manuel / Otomatik", "paket": "Active / Allure / GT Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "BlueHDi motorlarda AdBlue/EGR sistemiyle ilgili şikayetler bazı üretim yıllarında" },
+      { "seviye": "good", "metin": "PureTech benzinli motor görece sorunsuz ve ekonomik olarak değerlendiriliyor" }
+    ],
+    "tramerOrani": 31
+  },
+  {
+    "id": "peugeot-301",
+    "marka": "Peugeot",
+    "model": "301",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 40000, "max": 140000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 600000, "max": 900000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 BlueHDi", "guc": "100 HP", "sanziman": "Manuel", "paket": "Active / Allure" },
+      { "motor": "1.6 VTi", "guc": "115 HP", "sanziman": "Manuel / Otomatik", "paket": "Active / Allure" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Geniş bagaj ve basit mekanik yapı, bakım maliyeti düşük" },
+      { "seviye": "warn", "metin": "BlueHDi motorlarda düşük km'lik şehir kullanımında EGR bakımı önem kazanıyor" }
+    ],
+    "tramerOrani": 33
+  },
+  {
+    "id": "peugeot-2008",
+    "marka": "Peugeot",
+    "model": "2008",
+    "govde": "Crossover",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 30000, "max": 120000, "yaygin": "45.000 - 95.000 km" },
+    "fiyatAraligi": { "min": 850000, "max": 1350000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 BlueHDi", "guc": "100-130 HP", "sanziman": "Manuel / Otomatik", "paket": "Active / Allure / GT Line" },
+      { "motor": "1.2 PureTech", "guc": "100-130 HP", "sanziman": "Manuel / Otomatik", "paket": "Active / Allure / GT Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "SUV/crossover gövdesiyle ikinci el talebi güçlü, fiyat istikrarı yüksek" }
+    ],
+    "tramerOrani": 23
+  },
+  {
+    "id": "peugeot-3008",
+    "marka": "Peugeot",
+    "model": "3008",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2016 - günümüz",
+    "kmBandi": { "min": 30000, "max": 130000, "yaygin": "45.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 1300000, "max": 2200000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 BlueHDi", "guc": "130 HP", "sanziman": "Otomatik", "paket": "Active / Allure / GT Line" },
+      { "motor": "1.6 THP", "guc": "165 HP", "sanziman": "Otomatik", "paket": "Allure / GT Line / GT" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "İç tasarım ve donanım seviyesi segmentinde öne çıkarılıyor" },
+      { "seviye": "warn", "metin": "Dijital gösterge/multimedya sisteminde bazı üretim yıllarında yazılım şikayetleri" }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "citroen-c-elysee",
+    "marka": "Citroën",
+    "model": "C-Elysée",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 40000, "max": 140000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 560000, "max": 850000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 BlueHDi", "guc": "100 HP", "sanziman": "Manuel", "paket": "Live / Feel / Shine" },
+      { "motor": "1.6 VTi", "guc": "115 HP", "sanziman": "Manuel / Otomatik", "paket": "Feel / Shine" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Geniş bagaj ve düşük fiyat/km oranıyla ekonomik seçenek olarak öne çıkıyor" }
+    ],
+    "tramerOrani": 36
+  },
+  {
+    "id": "citroen-c3",
+    "marka": "Citroën",
+    "model": "C3",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 35000, "max": 130000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 570000, "max": 880000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 BlueHDi", "guc": "75-100 HP", "sanziman": "Manuel", "paket": "Live / Feel / Shine" },
+      { "motor": "1.2 PureTech", "guc": "82-110 HP", "sanziman": "Manuel / Otomatik", "paket": "Feel / Shine" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "BlueHDi motorlarda EGR bakımı ihmal edilirse performans kaybı bildiriliyor" }
+    ],
+    "tramerOrani": 32
+  },
+  {
+    "id": "ford-focus",
+    "marka": "Ford",
+    "model": "Focus",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 50000, "max": 170000, "yaygin": "80.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 700000, "max": 1200000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 TDCi", "guc": "95-120 HP", "sanziman": "Manuel / Otomatik", "paket": "Trend / Titanium" },
+      { "motor": "1.0 EcoBoost", "guc": "100-125 HP", "sanziman": "Manuel / Otomatik", "paket": "Trend / Titanium / ST-Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "PowerShift (çift kavramalı) şanzımanlı versiyonlarda geçmişte yaygın şikayetler bildirildi, alırken şanzıman testi önemli" },
+      { "seviye": "good", "metin": "EcoBoost motorlar performans/tüketim dengesiyle olumlu değerlendiriliyor" }
+    ],
+    "tramerOrani": 29
+  },
+  {
+    "id": "ford-fiesta",
+    "marka": "Ford",
+    "model": "Fiesta",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2008 - günümüz",
+    "kmBandi": { "min": 35000, "max": 140000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 600000, "max": 950000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 TDCi", "guc": "75-95 HP", "sanziman": "Manuel", "paket": "Trend / Titanium" },
+      { "motor": "1.0 EcoBoost", "guc": "100-125 HP", "sanziman": "Manuel / Otomatik", "paket": "Trend / Titanium / ST-Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "EcoBoost motorlarda erken üretim yıllarında zamanlama kayışı gerdiricisi bildirimleri" }
+    ],
+    "tramerOrani": 30
+  },
+  {
+    "id": "ford-kuga",
+    "marka": "Ford",
+    "model": "Kuga",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 40000, "max": 150000, "yaygin": "60.000 - 120.000 km" },
+    "fiyatAraligi": { "min": 1150000, "max": 1900000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 TDCi", "guc": "120 HP", "sanziman": "Manuel / Otomatik", "paket": "Trend / Titanium" },
+      { "motor": "2.0 TDCi", "guc": "150-180 HP", "sanziman": "Otomatik", "paket": "Titanium / ST-Line / Vignale" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "SUV segmentinde donanım/fiyat dengesiyle tercih ediliyor" },
+      { "seviye": "warn", "metin": "4x4 versiyonlarda periyodik transfer kutusu yağı değişimi ihmal edilmemeli" }
+    ],
+    "tramerOrani": 24
+  },
+  {
+    "id": "honda-civic",
+    "marka": "Honda",
+    "model": "Civic",
+    "govde": "Sedan",
+    "yakit": "Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2006 - günümüz",
+    "kmBandi": { "min": 50000, "max": 190000, "yaygin": "80.000 - 150.000 km" },
+    "fiyatAraligi": { "min": 800000, "max": 1450000 },
+    "motorSecenekleri": [
+      { "motor": "1.6", "guc": "125 HP", "sanziman": "Manuel / Otomatik", "paket": "Eco / Elegance" },
+      { "motor": "1.5 Turbo", "guc": "182 HP", "sanziman": "Manuel / Otomatik", "paket": "Elegance / Executive / Sport Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Motor güvenilirliği ve genel arıza oranı segmentinde en düşük olarak değerlendiriliyor" }
+    ],
+    "tramerOrani": 17
+  },
+  {
+    "id": "honda-city",
+    "marka": "Honda",
+    "model": "City",
+    "govde": "Sedan",
+    "yakit": "Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2009 - günümüz",
+    "kmBandi": { "min": 35000, "max": 140000, "yaygin": "55.000 - 105.000 km" },
+    "fiyatAraligi": { "min": 620000, "max": 950000 },
+    "motorSecenekleri": [
+      { "motor": "1.5", "guc": "119 HP", "sanziman": "Manuel / Otomatik", "paket": "Eco / Elegance / Executive" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Bakım maliyeti düşük, arıza şikayeti az bildiriliyor" }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "nissan-qashqai",
+    "marka": "Nissan",
+    "model": "Qashqai",
+    "govde": "Crossover",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2007 - günümüz",
+    "kmBandi": { "min": 40000, "max": 160000, "yaygin": "60.000 - 120.000 km" },
+    "fiyatAraligi": { "min": 850000, "max": 1500000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 dCi", "guc": "110-115 HP", "sanziman": "Manuel", "paket": "Visia / Acenta / Tekna" },
+      { "motor": "1.3 DIG-T", "guc": "140-160 HP", "sanziman": "Manuel / CVT", "paket": "Acenta / Tekna / N-Connecta" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "CVT şanzımanda periyodik yağ değişimi ihmal edilirse gürültü/tepki gecikmesi bildiriliyor" },
+      { "seviye": "good", "metin": "SUV segmentinde ikinci el talebi ve fiyat istikrarı yüksek" }
+    ],
+    "tramerOrani": 22
+  },
+  {
+    "id": "nissan-micra",
+    "marka": "Nissan",
+    "model": "Micra",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 30000, "max": 130000, "yaygin": "45.000 - 95.000 km" },
+    "fiyatAraligi": { "min": 560000, "max": 850000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 dCi", "guc": "90 HP", "sanziman": "Manuel", "paket": "Visia / Acenta" },
+      { "motor": "0.9 IG-T", "guc": "90 HP", "sanziman": "Manuel", "paket": "Acenta / Tekna" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Küçük segment için düşük bakım maliyeti ve az arıza şikayeti" }
+    ],
+    "tramerOrani": 21
+  },
+  {
+    "id": "kia-picanto",
+    "marka": "Kia",
+    "model": "Picanto",
+    "govde": "Hatchback",
+    "yakit": "Benzin",
+    "segment": "Şehir Aracı",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 25000, "max": 120000, "yaygin": "40.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 500000, "max": 780000 },
+    "motorSecenekleri": [
+      { "motor": "1.0", "guc": "67 HP", "sanziman": "Manuel", "paket": "Cool / Concept" },
+      { "motor": "1.2", "guc": "84 HP", "sanziman": "Manuel / Otomatik", "paket": "Concept / Elegance" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Şehir içi kullanım için düşük yakıt tüketimi, arıza şikayeti az" }
+    ],
+    "tramerOrani": 19
+  },
+  {
+    "id": "kia-sportage",
+    "marka": "Kia",
+    "model": "Sportage",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 40000, "max": 160000, "yaygin": "60.000 - 120.000 km" },
+    "fiyatAraligi": { "min": 1100000, "max": 1900000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 CRDI", "guc": "115-136 HP", "sanziman": "Manuel / Otomatik", "paket": "Cool / Concept / Elegance" },
+      { "motor": "2.0 CRDI", "guc": "136-185 HP", "sanziman": "Otomatik", "paket": "Elegance / Prestige / GT Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Uzun garanti kapsamı ile ikinci elde güven telkin ediyor" }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "kia-rio",
+    "marka": "Kia",
+    "model": "Rio",
+    "govde": "Hatchback / Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2011 - günümüz",
+    "kmBandi": { "min": 35000, "max": 130000, "yaygin": "55.000 - 100.000 km" },
+    "fiyatAraligi": { "min": 600000, "max": 920000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 CRDI", "guc": "90 HP", "sanziman": "Manuel", "paket": "Cool / Concept" },
+      { "motor": "1.4 MPI", "guc": "100 HP", "sanziman": "Manuel / Otomatik", "paket": "Concept / Elegance" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Genel bakım maliyeti düşük, marka geneli düşük arıza şikayeti" }
+    ],
+    "tramerOrani": 23
+  },
+  {
+    "id": "seat-ibiza",
+    "marka": "Seat",
+    "model": "Ibiza",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2009 - günümüz",
+    "kmBandi": { "min": 35000, "max": 140000, "yaygin": "55.000 - 105.000 km" },
+    "fiyatAraligi": { "min": 620000, "max": 980000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 TDI", "guc": "75-90 HP", "sanziman": "Manuel", "paket": "Reference / Style" },
+      { "motor": "1.0 TSI", "guc": "95-115 HP", "sanziman": "Manuel / DSG", "paket": "Style / FR" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "TSI motorlarda erken üretim yıllarında yağ tüketimi şikayetleri bildiriliyor" }
+    ],
+    "tramerOrani": 27
+  },
+  {
+    "id": "seat-leon",
+    "marka": "Seat",
+    "model": "Leon",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 40000, "max": 150000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 900000, "max": 1500000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "105-115 HP", "sanziman": "Manuel / DSG", "paket": "Reference / Style / FR" },
+      { "motor": "1.4 TSI", "guc": "125-150 HP", "sanziman": "Manuel / DSG", "paket": "Style / FR" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "DSG şanzımanda bakım periyodu ihmal edilirse maliyetli arıza riski" }
+    ],
+    "tramerOrani": 25
+  },
+  {
+    "id": "skoda-octavia",
+    "marka": "Skoda",
+    "model": "Octavia",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": { "min": 50000, "max": 170000, "yaygin": "80.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 950000, "max": 1650000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "105-115 HP", "sanziman": "Manuel / DSG", "paket": "Active / Ambition / Style" },
+      { "motor": "1.4 TSI", "guc": "125-150 HP", "sanziman": "Manuel / DSG", "paket": "Ambition / Style / RS" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "DSG mekatronik bakımı ihmal edilirse maliyetli arıza riski" },
+      { "seviye": "good", "metin": "Geniş bagaj hacmi ve donanım/fiyat dengesiyle segmentte öne çıkıyor" }
+    ],
+    "tramerOrani": 23
+  },
+  {
+    "id": "skoda-fabia",
+    "marka": "Skoda",
+    "model": "Fabia",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": { "min": 35000, "max": 140000, "yaygin": "55.000 - 105.000 km" },
+    "fiyatAraligi": { "min": 620000, "max": 960000 },
+    "motorSecenekleri": [
+      { "motor": "1.4 TDI", "guc": "75-90 HP", "sanziman": "Manuel", "paket": "Active / Ambition" },
+      { "motor": "1.0 TSI", "guc": "95-110 HP", "sanziman": "Manuel / DSG", "paket": "Ambition / Style" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Basit ve dayanıklı mekanik, bakım maliyeti düşük" }
+    ],
+    "tramerOrani": 26
+  },
+  {
+    "id": "mazda-3",
+    "marka": "Mazda",
+    "model": "3",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2009 - günümüz",
+    "kmBandi": { "min": 40000, "max": 150000, "yaygin": "60.000 - 110.000 km" },
+    "fiyatAraligi": { "min": 800000, "max": 1400000 },
+    "motorSecenekleri": [
+      { "motor": "1.5 SkyActiv", "guc": "100-120 HP", "sanziman": "Manuel / Otomatik", "paket": "Access / Motion" },
+      { "motor": "2.0 SkyActiv", "guc": "120-150 HP", "sanziman": "Manuel / Otomatik", "paket": "Motion / Advantage" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "SkyActiv motor teknolojisiyle düşük yakıt tüketimi ve az arıza şikayeti" }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "suzuki-vitara",
+    "marka": "Suzuki",
+    "model": "Vitara",
+    "govde": "SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2015 - günümüz",
+    "kmBandi": { "min": 30000, "max": 120000, "yaygin": "45.000 - 90.000 km" },
+    "fiyatAraligi": { "min": 850000, "max": 1350000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 DDiS", "guc": "120 HP", "sanziman": "Manuel", "paket": "GL / GLX" },
+      { "motor": "1.4 Boosterjet", "guc": "140 HP", "sanziman": "Manuel / Otomatik · 4x4 opsiyonlu", "paket": "GLX / SX4" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "good", "metin": "Genel bakım maliyeti düşük, marka geneli düşük arıza şikayeti" }
+    ],
+    "tramerOrani": 17
+  },
+  {
+    "id": "mercedes-c-serisi",
+    "marka": "Mercedes-Benz",
+    "model": "C Serisi",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2007 - günümüz",
+    "kmBandi": { "min": 40000, "max": 180000, "yaygin": "70.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 1600000, "max": 3200000 },
+    "motorSecenekleri": [
+      { "motor": "C 180d / C 200d", "guc": "136-194 HP", "sanziman": "Otomatik", "paket": "Style / Avantgarde / AMG" },
+      { "motor": "C 180 / C 200", "guc": "156-184 HP", "sanziman": "Otomatik", "paket": "Avantgarde / AMG" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Hava süspansiyonlu (varsa) versiyonlarda yüksek km'de bakım maliyeti artabiliyor" },
+      { "seviye": "good", "metin": "Kaporta/motor kalitesi ve ikinci el değer korumasında segmentte referans" }
+    ],
+    "tramerOrani": 19
+  },
+  {
+    "id": "bmw-3-serisi",
+    "marka": "BMW",
+    "model": "3 Serisi",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2007 - günümüz",
+    "kmBandi": { "min": 40000, "max": 180000, "yaygin": "70.000 - 140.000 km" },
+    "fiyatAraligi": { "min": 1500000, "max": 3100000 },
+    "motorSecenekleri": [
+      { "motor": "318d / 320d", "guc": "143-190 HP", "sanziman": "Otomatik", "paket": "Standart / Sport Line / M Sport" },
+      { "motor": "318i / 320i", "guc": "136-184 HP", "sanziman": "Otomatik", "paket": "Sport Line / M Sport" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Turbo dizel motorlarda yüksek km'de enjektör/turbo bakım kalemleri artabiliyor" },
+      { "seviye": "good", "metin": "Sürüş dinamiği ve kaporta kalitesi segmentte olumlu değerlendiriliyor" }
+    ],
+    "tramerOrani": 21
+  },
+  {
+    "id": "audi-a3",
+    "marka": "Audi",
+    "model": "A3",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2012 - günümüz",
+    "kmBandi": { "min": 40000, "max": 160000, "yaygin": "60.000 - 130.000 km" },
+    "fiyatAraligi": { "min": 1300000, "max": 2400000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 TDI", "guc": "110-116 HP", "sanziman": "Manuel / S tronic", "paket": "Standart / Design / S Line" },
+      { "motor": "1.4 TFSI", "guc": "125-150 HP", "sanziman": "Manuel / S tronic", "paket": "Design / S Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "S tronic (DSG) şanzımanda periyodik bakım ihmal edilirse maliyetli arıza riski" },
+      { "seviye": "good", "metin": "İç mekan işçiliği ve donanım kalitesi segmentinde üst seviyede değerlendiriliyor" }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "audi-a4",
+    "marka": "Audi",
+    "model": "A4",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2008 - günümüz",
+    "kmBandi": { "min": 50000, "max": 180000, "yaygin": "80.000 - 150.000 km" },
+    "fiyatAraligi": { "min": 1500000, "max": 2900000 },
+    "motorSecenekleri": [
+      { "motor": "2.0 TDI", "guc": "150-190 HP", "sanziman": "Manuel / S tronic", "paket": "Standart / Design / S Line" },
+      { "motor": "1.4 TFSI / 2.0 TFSI", "guc": "150-190 HP", "sanziman": "S tronic Otomatik", "paket": "Design / S Line" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Quattro (4x4) versiyonlarda periyodik bakım maliyeti standart versiyona göre yüksek" },
+      { "seviye": "good", "metin": "Kaporta ve iç mekan kalitesi ikinci el değer korumasına olumlu yansıyor" }
+    ],
+    "tramerOrani": 19
+  },
+  {
+    "id": "chevrolet-cruze",
+    "marka": "Chevrolet",
+    "model": "Cruze",
+    "govde": "Sedan / Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2009 - 2016",
+    "kmBandi": { "min": 100000, "max": 230000, "yaygin": "130.000 - 190.000 km" },
+    "fiyatAraligi": { "min": 480000, "max": 750000 },
+    "motorSecenekleri": [
+      { "motor": "1.6 LT", "guc": "109 HP", "sanziman": "Manuel / Otomatik", "paket": "LS / LT / LTZ" },
+      { "motor": "2.0 VCDi", "guc": "150-163 HP", "sanziman": "Manuel / Otomatik", "paket": "LT / LTZ" }
+    ],
+    "kronikNoktalar": [
+      { "seviye": "warn", "metin": "Üretimi durdurulan model olduğu için bazı orijinal yedek parçalarda bulunabilirlik zorluğu" },
+      { "seviye": "good", "metin": "Geniş iç hacim ve fiyat/performans oranıyla ikinci elde hâlâ tercih ediliyor" }
+    ],
+    "tramerOrani": 39
+  }
+]

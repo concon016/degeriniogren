@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sıkça Sorulan Sorular | Değerini Öğren</title>
+<meta name="description" content="Veriler nereden geliyor, fiyatlar neden aralık halinde, tramer oranları ne anlama geliyor — en çok merak edilenler.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://degeriniogren.vercel.app/sss.html">
+<meta property="og:title" content="Sıkça Sorulan Sorular | Değerini Öğren">
+<meta property="og:description" content="Veriler nereden geliyor, fiyatlar neden aralık halinde — en çok merak edilenler.">
+<meta property="og:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Sıkça Sorulan Sorular | Değerini Öğren">
+<meta name="twitter:description" content="Veriler nereden geliyor, fiyatlar neden aralık halinde — en çok merak edilenler.">
+<meta name="twitter:image" content="https://degeriniogren.vercel.app/assets/og-image.png">
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/favicon-512.png">
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", saved || (prefersDark ? "dark" : "light"));
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="scroll-progress"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Değerini&nbsp;<span class="hl">Öğren</span></a>
+    <ul class="nav-links" id="navMobile">
+      <li><a href="index.html">Ana Sayfa</a></li>
+      <li><a href="arac-bul.html">Araç Bul</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
+      <li><a href="butce-rehberi.html">Bütçe Rehberi</a></li>
+      <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
+      <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
+      <li><a href="sss.html" class="active">SSS</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" role="switch" aria-checked="false" aria-label="Karanlık modu değiştir">
+        <span class="theme-toggle-track"></span>
+        <span class="theme-toggle-thumb"></span>
+      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menü">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+<section class="section">
+  <div class="section-head center reveal">
+    <p class="eyebrow">Merak Edilenler</p>
+    <h2>Sıkça Sorulan Sorular</h2>
+  </div>
+
+  <details class="faq-item reveal">
+    <summary>Buradaki fiyat aralıkları güncel ilan fiyatı mı?</summary>
+    <p>Hayır. Fiyat aralıkları, ilan yoğunluğu yüksek modeller üzerinden derlenmiş <strong>genel bir eğilimi</strong> gösterir; anlık/canlı ilan verisi değildir. Kesin ve güncel fiyat için her değer raporunun altındaki sahibinden/arabam arama linklerini kullanmanı öneririz.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Tramer oranları nereden geliyor, gerçek mi?</summary>
+    <p>Tramer/hasar kaydı sıklığı göstergesi de örnek/genel bir oran olarak sunulur, belirli bir ilana veya araca ait resmi kayıt değildir. Bir aracı almadan önce mutlaka <a href="tramer-rehberi.html" style="color:var(--primary);font-weight:700;">e-Devlet üzerinden resmi tramer sorgusu</a> yapmalısın.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Kronik arıza bilgileri ne kadar güvenilir?</summary>
+    <p>Bu bilgiler genel/bilinen otomotiv bilgisidir — teknik forumlarda ve servis tecrübelerinde sık bahsedilen noktaları özetler. Her üretim yılı veya her araç için geçerli olmayabilir; kesin teşhis için bağımsız bir ekspertiz/servisten görüş almanı öneririz.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Neden doğrudan sahibinden'den canlı veri çekmiyorsunuz?</summary>
+    <p>sahibinden.com'un kullanım şartları otomatik veri çekmeyi (scraping) yasaklıyor. Bu yüzden ilan verilerini kopyalamak yerine genel bilgi/eğitim odaklı bir yaklaşım seçtik ve kesin/güncel fiyat için doğrudan sahibinden ve arabam'daki arama sonuçlarına yönlendiriyoruz.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Hangi modeller kapsanıyor?</summary>
+    <p>Şu an 50'den fazla model, 20'den fazla marka ile ilan yoğunluğu yüksek ekonomi, orta segment, SUV ve lüks segment araçları kapsıyoruz. Liste zamanla genişletiliyor.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>İki modeli nasıl karşılaştırabilirim?</summary>
+    <p><a href="karsilastir.html" style="color:var(--primary);font-weight:700;">Karşılaştır</a> sayfasından iki modeli seç; fiyat, km bandı, motor seçenekleri, kronik noktalar ve tramer oranı yan yana görünür.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Bütçemi girdiğimde neden bazı modeller listelenmiyor?</summary>
+    <p>Filtre, aracın genel fiyat aralığıyla seçtiğin bütçe aralığının kesişip kesişmediğine bakar. Eğer hiç sonuç çıkmıyorsa, bütçe veya segment filtresini biraz genişletmeyi dene.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Site mobil uyumlu mu?</summary>
+    <p>Evet, tüm sayfalar mobil, tablet ve masaüstü ekranlara göre uyarlanmış şekilde tasarlandı.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Karanlık mod var mı?</summary>
+    <p>Evet, sağ üstteki geçiş düğmesiyle açık/koyu tema arasında geçiş yapabilirsin; tercihin tarayıcında hatırlanır.</p>
+  </details>
+
+  <details class="faq-item reveal">
+    <summary>Bu site bir alım-satım platformu mu?</summary>
+    <p>Hayır. Değerini Öğren bir ilan/alım-satım platformu değildir; bütçe planlaması ve model karşılaştırması için bilgilendirme amaçlı bir rehberdir. Gerçek ilanlar için sahibinden/arabam gibi platformlara yönlendiririz.</p>
+  </details>
+</section>
+</main>
+
+<footer class="footer">
+  <div class="foot-links">
+    <a href="index.html">Ana Sayfa</a>
+    <a href="arac-bul.html">Araç Bul</a>
+    <a href="karsilastir.html">Karşılaştır</a>
+    <a href="butce-rehberi.html">Bütçe Rehberi</a>
+    <a href="kronik-arizalar.html">Kronik Arızalar</a>
+    <a href="tramer-rehberi.html">Tramer Rehberi</a>
+    <a href="sss.html">SSS</a>
+  </div>
+  <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
+  <p class="disclaimer">Fiyat aralıkları, kronik arıza notları ve tramer oranları genel bilgilendirme amaçlıdır; belirli bir ilana ait kesin veri veya profesyonel ekspertiz yerine geçmez.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
