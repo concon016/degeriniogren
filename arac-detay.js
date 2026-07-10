@@ -67,7 +67,10 @@
             "<h1>" + car.model + "</h1>" +
             '<p class="sub">' + car.govde + " · " + car.yakit + " · " + car.yilAraligi + "</p>" +
           "</div>" +
+          '<div style="display:flex;align-items:center;gap:10px;">' +
           '<span class="badge">' + car.motorSecenekleri.length + " motor seçeneği</span>" +
+          favBtnHTML(car.id, "fav-btn-inline") +
+          "</div>" +
         "</div>" +
 
         '<div class="price-block">' +
@@ -113,6 +116,7 @@
       "</div>";
 
     document.getElementById("reportRoot").innerHTML = html;
+    wireFavButtons(document.getElementById("reportRoot"));
   }
 
   var id = qs("id");

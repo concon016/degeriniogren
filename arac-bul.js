@@ -56,6 +56,7 @@
     var motorCount = car.motorSecenekleri.length;
     return (
       '<div class="result-card reveal visible">' +
+      favBtnHTML(car.id) +
       '<div class="result-top">' + car.segment + '</div>' +
       '<div class="result-body">' +
       "<h3>" + car.marka + " " + car.model + "</h3>" +
@@ -88,6 +89,7 @@
       .sort(function (a, b) { return a.fiyatAraligi.min - b.fiyatAraligi.min; })
       .map(carCardHTML)
       .join("");
+    wireFavButtons(els.grid);
   }
 
   fetch(DATA_URL)

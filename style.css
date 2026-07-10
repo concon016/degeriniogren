@@ -151,7 +151,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     border-bottom: 1px solid var(--line); flex-direction: column; align-items: flex-start;
     gap: 0; max-height: 0; overflow: hidden; transition: max-height .3s ease;
   }
-  .nav-links.open { max-height: 560px; }
+  .nav-links.open { max-height: 80vh; overflow-y: auto; }
   .nav-links li { width: 100%; }
   .nav-links a { display: block; padding: 14px 24px; width: 100%; border-top: 1px solid var(--line); border-bottom: none; }
   .nav-links a.active { border-left: 3px solid var(--accent); background: var(--surface-2); }
@@ -249,6 +249,19 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .result-foot a { color: var(--primary); font-weight: 700; font-size: .88rem; }
 .result-empty { max-width: var(--max); margin: 0 auto; text-align: center; padding: 60px 20px; color: var(--ink-muted); }
 
+/* ============ Favori butonu ============ */
+.result-card { position: relative; }
+.fav-btn {
+  position: absolute; top: 8px; right: 8px; z-index: 2;
+  width: 30px; height: 30px; border-radius: 50%; border: 1px solid var(--line);
+  background: var(--surface); color: var(--ink-muted); cursor: pointer; padding: 0;
+  display: flex; align-items: center; justify-content: center; font-size: 16px; line-height: 1;
+  box-shadow: var(--shadow); transition: color .15s ease, transform .15s ease;
+}
+.fav-btn:hover { transform: scale(1.1); }
+.fav-btn.active { color: var(--accent-ui); border-color: var(--accent-ui); }
+.fav-btn-inline { position: static; }
+
 /* ============ Badge ============ */
 .badge {
   font-size: .68rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
@@ -314,8 +327,12 @@ table.opts tr:last-child td { border-bottom: none; }
 .external-box strong { color: var(--ink); }
 
 /* ============ Compare (karsilastir) ============ */
-.compare-picker { max-width: var(--max); margin: 0 auto 32px; display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.compare-picker { max-width: var(--max); margin: 0 auto 16px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; align-items: center; }
 .compare-picker select { width: 100%; padding: 13px 14px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); color: var(--ink); font-size: 15px; }
+.compare-slot { display: flex; gap: 8px; align-items: center; }
+.compare-slot .slot-remove { flex-shrink: 0; width: 38px; height: 46px; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); color: var(--ink-muted); cursor: pointer; font-size: 18px; }
+.compare-slot .slot-remove:hover { border-color: var(--danger); color: var(--danger); }
+.compare-actions { max-width: var(--max); margin: 0 auto 28px; display: flex; justify-content: center; }
 @media (max-width: 640px) { .compare-picker { grid-template-columns: 1fr; } }
 
 .compare-table-wrap { max-width: var(--max); margin: 0 auto; overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-md); box-shadow: var(--shadow); }

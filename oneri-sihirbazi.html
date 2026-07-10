@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Öneri Sihirbazı | Değerini Öğren</title>
+<meta name="description" content="Kullanım amacını, bütçeni ve yakıt tercihini seç; sana en uygun modelleri sıralayalım.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://concon016-degeriniogren.vercel.app/oneri-sihirbazi.html">
+<meta property="og:title" content="Öneri Sihirbazı | Değerini Öğren">
+<meta property="og:description" content="Kullanım amacı ve bütçene göre en uygun modelleri öner.">
+<meta property="og:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Öneri Sihirbazı | Değerini Öğren">
+<meta name="twitter:description" content="Kullanım amacı ve bütçene göre en uygun modelleri öner.">
+<meta name="twitter:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
+<link rel="icon" href="assets/favicon-64.png" type="image/png">
+<link rel="apple-touch-icon" href="assets/favicon-512.png">
+<script>
+  (function () {
+    var saved = localStorage.getItem("theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", saved || (prefersDark ? "dark" : "light"));
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+<style>
+  .wiz-step { max-width: 820px; margin: 0 auto 28px; }
+  .wiz-step-label { font-weight: 700; font-size: .95rem; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+  .wiz-step-label .num { width: 22px; height: 22px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font-size: .78rem; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+  .wiz-options { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; }
+  .wiz-opt { background: var(--surface); border: 1.5px solid var(--line); border-radius: var(--radius-md); padding: 14px 16px; cursor: pointer; text-align: left; font-family: var(--font-body); }
+  .wiz-opt .t { font-weight: 700; font-size: .9rem; display: block; }
+  .wiz-opt .d { font-size: .76rem; color: var(--ink-muted); display: block; margin-top: 2px; }
+  .wiz-opt.selected { border-color: var(--primary); background: var(--surface-2); }
+  .wiz-opt:hover { border-color: var(--primary); }
+  .wiz-cta { text-align: center; margin: 32px 0; }
+</style>
+</head>
+<body>
+
+<div class="scroll-progress"></div>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Değerini&nbsp;<span class="hl">Öğren</span></a>
+    <ul class="nav-links" id="navMobile">
+      <li><a href="index.html">Ana Sayfa</a></li>
+      <li><a href="arac-bul.html">Araç Bul</a></li>
+      <li><a href="oneri-sihirbazi.html" class="active">Sihirbaz</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
+      <li><a href="hesaplayicilar.html">Hesaplayıcılar</a></li>
+      <li><a href="marka-guvenilirlik.html">Güvenilirlik</a></li>
+      <li><a href="butce-rehberi.html">Bütçe Rehberi</a></li>
+      <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
+      <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
+      <li><a href="favoriler.html">Favorilerim</a></li>
+      <li><a href="arama.html">Ara</a></li>
+      <li><a href="sss.html">SSS</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="theme-toggle" id="themeToggle" role="switch" aria-checked="false" aria-label="Karanlık modu değiştir">
+        <span class="theme-toggle-track"></span>
+        <span class="theme-toggle-thumb"></span>
+      </button>
+      <button class="menu-toggle" id="menuToggle" aria-label="Menü">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<main>
+<section class="section" style="padding-bottom:24px;">
+  <div class="section-head center reveal">
+    <p class="eyebrow">3 Soru, Anında Sonuç</p>
+    <h2>Bu bütçeyle ne alınır?</h2>
+    <p>Kullanım amacını, bütçeni ve yakıt tercihini seç — sana uygun modelleri sıralayalım.</p>
+  </div>
+
+  <div class="wiz-step reveal">
+    <div class="wiz-step-label"><span class="num">1</span>Aracı ne için kullanacaksın?</div>
+    <div class="wiz-options" id="wizAmac">
+      <button type="button" class="wiz-opt" data-val="sehir"><span class="t">Şehir içi</span><span class="d">Kısa mesafe, kolay park, düşük yakıt</span></button>
+      <button type="button" class="wiz-opt" data-val="aile"><span class="t">Aile / bagaj</span><span class="d">Geniş iç hacim, SUV/MPV</span></button>
+      <button type="button" class="wiz-opt" data-val="uzunyol"><span class="t">Uzun yol / otoyol</span><span class="d">Konfor, sedan ağırlıklı</span></button>
+      <button type="button" class="wiz-opt" data-val="arazi"><span class="t">Arazi / 4x4</span><span class="d">Yüksek yer tutma, dört çeker</span></button>
+      <button type="button" class="wiz-opt" data-val="ticari"><span class="t">Ticari / yük taşıma</span><span class="d">Panelvan, pickup, kamyonet</span></button>
+    </div>
+  </div>
+
+  <div class="wiz-step reveal">
+    <div class="wiz-step-label"><span class="num">2</span>Bütçen ne kadar?</div>
+    <div class="wiz-options" id="wizButce">
+      <button type="button" class="wiz-opt" data-val="0-500000"><span class="t">500.000 ₺'ye kadar</span></button>
+      <button type="button" class="wiz-opt" data-val="500000-800000"><span class="t">500.000 - 800.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="800000-1200000"><span class="t">800.000 - 1.200.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="1200000-1800000"><span class="t">1.200.000 - 1.800.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="1800000-2500000"><span class="t">1.800.000 - 2.500.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="2500000-3500000"><span class="t">2.500.000 - 3.500.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="3500000-5000000"><span class="t">3.500.000 - 5.000.000 ₺</span></button>
+      <button type="button" class="wiz-opt" data-val="5000000-99000000"><span class="t">5.000.000 ₺ ve üzeri</span></button>
+    </div>
+  </div>
+
+  <div class="wiz-step reveal">
+    <div class="wiz-step-label"><span class="num">3</span>Yakıt tercihin var mı?</div>
+    <div class="wiz-options" id="wizYakit">
+      <button type="button" class="wiz-opt selected" data-val=""><span class="t">Fark etmez</span></button>
+      <button type="button" class="wiz-opt" data-val="Dizel"><span class="t">Dizel</span></button>
+      <button type="button" class="wiz-opt" data-val="Benzin"><span class="t">Benzin</span></button>
+      <button type="button" class="wiz-opt" data-val="Hybrid"><span class="t">Hybrid</span></button>
+    </div>
+  </div>
+
+  <div class="wiz-cta reveal">
+    <button type="button" class="btn btn-accent" id="wizGo">Modelleri Göster →</button>
+  </div>
+
+  <p class="filter-count reveal" id="wizCount"></p>
+  <div class="result-grid reveal" id="wizResults"></div>
+</section>
+</main>
+
+<footer class="footer">
+  <div class="foot-links">
+    <a href="index.html">Ana Sayfa</a>
+    <a href="arac-bul.html">Araç Bul</a>
+    <a href="oneri-sihirbazi.html">Sihirbaz</a>
+    <a href="karsilastir.html">Karşılaştır</a>
+    <a href="hesaplayicilar.html">Hesaplayıcılar</a>
+    <a href="marka-guvenilirlik.html">Güvenilirlik</a>
+    <a href="butce-rehberi.html">Bütçe Rehberi</a>
+    <a href="kronik-arizalar.html">Kronik Arızalar</a>
+    <a href="tramer-rehberi.html">Tramer Rehberi</a>
+    <a href="favoriler.html">Favorilerim</a>
+    <a href="sss.html">SSS</a>
+  </div>
+  <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
+  <p class="disclaimer">Öneriler basit eşleştirme kurallarına dayanır; kişisel danışmanlık yerine geçmez.</p>
+</footer>
+
+<script src="script.js"></script>
+<script src="favorites.js"></script>
+<script src="oneri-sihirbazi.js"></script>
+</body>
+</html>

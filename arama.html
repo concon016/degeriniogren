@@ -3,18 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Karşılaştır | Değerini Öğren</title>
-<meta name="description" content="İki modeli yan yana koy; fiyat aralığı, kilometre bandı, motor seçenekleri, kronik noktalar ve tramer oranını birlikte gör.">
+<title>Ara | Değerini Öğren</title>
+<meta name="description" content="Marka, model, motor veya kronik arıza anahtar kelimesiyle site genelinde ara.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://concon016-degeriniogren.vercel.app/karsilastir.html">
-<meta property="og:title" content="Karşılaştır | Değerini Öğren">
-<meta property="og:description" content="İki modeli yan yana koy, farkları tek bakışta gör.">
+<meta property="og:url" content="https://concon016-degeriniogren.vercel.app/arama.html">
+<meta property="og:title" content="Ara | Değerini Öğren">
+<meta property="og:description" content="Marka, model, motor veya kronik arıza anahtar kelimesiyle ara.">
 <meta property="og:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Karşılaştır | Değerini Öğren">
-<meta name="twitter:description" content="İki modeli yan yana koy, farkları tek bakışta gör.">
+<meta name="twitter:title" content="Ara | Değerini Öğren">
+<meta name="twitter:description" content="Marka, model, motor veya kronik arıza anahtar kelimesiyle ara.">
 <meta name="twitter:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
 <link rel="icon" href="assets/favicon-64.png" type="image/png">
 <link rel="apple-touch-icon" href="assets/favicon-512.png">
@@ -26,6 +26,12 @@
   })();
 </script>
 <link rel="stylesheet" href="style.css">
+<style>
+  .search-box { max-width: 620px; margin: 0 auto 28px; display: flex; gap: 10px; }
+  .search-box input { flex: 1; padding: 14px 16px; border-radius: var(--radius-md); border: 1px solid var(--line); background: var(--surface); color: var(--ink); font-size: 16px; font-family: var(--font-body); }
+  .search-box input:focus { outline: none; border-color: var(--primary); }
+  .search-hit-reason { font-size: .74rem; color: var(--primary); margin-top: 2px; }
+</style>
 </head>
 <body>
 
@@ -38,14 +44,14 @@
       <li><a href="index.html">Ana Sayfa</a></li>
       <li><a href="arac-bul.html">Araç Bul</a></li>
       <li><a href="oneri-sihirbazi.html">Sihirbaz</a></li>
-      <li><a href="karsilastir.html" class="active">Karşılaştır</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
       <li><a href="hesaplayicilar.html">Hesaplayıcılar</a></li>
       <li><a href="marka-guvenilirlik.html">Güvenilirlik</a></li>
       <li><a href="butce-rehberi.html">Bütçe Rehberi</a></li>
       <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
       <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
       <li><a href="favoriler.html">Favorilerim</a></li>
-      <li><a href="arama.html">Ara</a></li>
+      <li><a href="arama.html" class="active">Ara</a></li>
       <li><a href="sss.html">SSS</a></li>
     </ul>
     <div class="nav-right">
@@ -61,21 +67,19 @@
 </nav>
 
 <main>
-<section class="section">
+<section class="section" style="padding-bottom:24px;">
   <div class="section-head center reveal">
-    <p class="eyebrow">Yan Yana</p>
-    <h2>Modelleri karşılaştır</h2>
-    <p>2 ila 4 model seç, farkları tek tabloda gör.</p>
+    <p class="eyebrow">Site Geneli</p>
+    <h2>Ara</h2>
+    <p>Marka, model, motor türü veya kronik arıza anahtar kelimesiyle (ör. "triger", "DSG", "hibrit") ara.</p>
   </div>
 
-  <div class="compare-picker reveal" id="pickerWrap"></div>
-  <div class="compare-actions reveal">
-    <button type="button" class="btn btn-secondary" id="addSlot">+ Model Ekle</button>
-  </div>
+  <form class="search-box reveal" id="searchForm">
+    <input type="text" id="searchInput" placeholder="ör. Egea, triger zinciri, DSG, hibrit…" autocomplete="off">
+  </form>
 
-  <div class="compare-table-wrap reveal">
-    <div id="compareWrap"><p style="text-align:center;color:var(--ink-muted);padding:40px 20px;">Yükleniyor…</p></div>
-  </div>
+  <p class="filter-count reveal" id="searchCount"></p>
+  <div class="result-grid reveal" id="searchResults"></div>
 </section>
 </main>
 
@@ -91,14 +95,14 @@
     <a href="kronik-arizalar.html">Kronik Arızalar</a>
     <a href="tramer-rehberi.html">Tramer Rehberi</a>
     <a href="favoriler.html">Favorilerim</a>
-    <a href="arama.html">Ara</a>
     <a href="sss.html">SSS</a>
   </div>
   <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
-  <p class="disclaimer">Fiyat aralıkları ve oranlar genel bilgilendirme amaçlıdır; belirli bir ilana ait kesin veri yerine geçmez.</p>
+  <p class="disclaimer">Arama yalnızca sitedeki kayıtlı modeller içinde yapılır; canlı ilan araması değildir.</p>
 </footer>
 
 <script src="script.js"></script>
-<script src="karsilastir.js"></script>
+<script src="favorites.js"></script>
+<script src="arama.js"></script>
 </body>
 </html>

@@ -3,18 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Karşılaştır | Değerini Öğren</title>
-<meta name="description" content="İki modeli yan yana koy; fiyat aralığı, kilometre bandı, motor seçenekleri, kronik noktalar ve tramer oranını birlikte gör.">
+<title>Favorilerim | Değerini Öğren</title>
+<meta name="description" content="Beğendiğin modelleri hesap açmadan tarayıcında kaydet, dilediğin zaman karşılaştır.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://concon016-degeriniogren.vercel.app/karsilastir.html">
-<meta property="og:title" content="Karşılaştır | Değerini Öğren">
-<meta property="og:description" content="İki modeli yan yana koy, farkları tek bakışta gör.">
+<meta property="og:url" content="https://concon016-degeriniogren.vercel.app/favoriler.html">
+<meta property="og:title" content="Favorilerim | Değerini Öğren">
+<meta property="og:description" content="Kaydettiğin modeller tek sayfada.">
 <meta property="og:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Karşılaştır | Değerini Öğren">
-<meta name="twitter:description" content="İki modeli yan yana koy, farkları tek bakışta gör.">
+<meta name="twitter:title" content="Favorilerim | Değerini Öğren">
+<meta name="twitter:description" content="Kaydettiğin modeller tek sayfada.">
 <meta name="twitter:image" content="https://concon016-degeriniogren.vercel.app/assets/og-image.png">
 <link rel="icon" href="assets/favicon-64.png" type="image/png">
 <link rel="apple-touch-icon" href="assets/favicon-512.png">
@@ -38,13 +38,13 @@
       <li><a href="index.html">Ana Sayfa</a></li>
       <li><a href="arac-bul.html">Araç Bul</a></li>
       <li><a href="oneri-sihirbazi.html">Sihirbaz</a></li>
-      <li><a href="karsilastir.html" class="active">Karşılaştır</a></li>
+      <li><a href="karsilastir.html">Karşılaştır</a></li>
       <li><a href="hesaplayicilar.html">Hesaplayıcılar</a></li>
       <li><a href="marka-guvenilirlik.html">Güvenilirlik</a></li>
       <li><a href="butce-rehberi.html">Bütçe Rehberi</a></li>
       <li><a href="kronik-arizalar.html">Kronik Arızalar</a></li>
       <li><a href="tramer-rehberi.html">Tramer Rehberi</a></li>
-      <li><a href="favoriler.html">Favorilerim</a></li>
+      <li><a href="favoriler.html" class="active">Favorilerim</a></li>
       <li><a href="arama.html">Ara</a></li>
       <li><a href="sss.html">SSS</a></li>
     </ul>
@@ -61,20 +61,17 @@
 </nav>
 
 <main>
-<section class="section">
+<section class="section" style="padding-bottom:24px;">
   <div class="section-head center reveal">
-    <p class="eyebrow">Yan Yana</p>
-    <h2>Modelleri karşılaştır</h2>
-    <p>2 ila 4 model seç, farkları tek tabloda gör.</p>
+    <p class="eyebrow">Tarayıcında Saklanır</p>
+    <h2>Favorilerim</h2>
+    <p>Yıldızladığın modeller burada listelenir — hesap gerekmez, sadece bu tarayıcıda saklanır.</p>
   </div>
 
-  <div class="compare-picker reveal" id="pickerWrap"></div>
-  <div class="compare-actions reveal">
-    <button type="button" class="btn btn-secondary" id="addSlot">+ Model Ekle</button>
-  </div>
-
-  <div class="compare-table-wrap reveal">
-    <div id="compareWrap"><p style="text-align:center;color:var(--ink-muted);padding:40px 20px;">Yükleniyor…</p></div>
+  <p class="filter-count reveal" id="favCount"></p>
+  <div class="result-grid reveal" id="favGrid"></div>
+  <div class="result-empty" id="favEmpty" style="display:none;">
+    <p>Henüz favori eklemedin. <a href="arac-bul.html" style="color:var(--primary);font-weight:700;">Araç Bul</a> sayfasında kart üzerindeki ☆ ikonuna tıklayarak ekleyebilirsin.</p>
   </div>
 </section>
 </main>
@@ -91,14 +88,14 @@
     <a href="kronik-arizalar.html">Kronik Arızalar</a>
     <a href="tramer-rehberi.html">Tramer Rehberi</a>
     <a href="favoriler.html">Favorilerim</a>
-    <a href="arama.html">Ara</a>
     <a href="sss.html">SSS</a>
   </div>
   <p>&copy; 2026 Değerini Öğren. Tüm hakları saklıdır.</p>
-  <p class="disclaimer">Fiyat aralıkları ve oranlar genel bilgilendirme amaçlıdır; belirli bir ilana ait kesin veri yerine geçmez.</p>
+  <p class="disclaimer">Favoriler yalnızca bu tarayıcıda saklanır; tarayıcı verilerini temizlersen liste sıfırlanır.</p>
 </footer>
 
 <script src="script.js"></script>
-<script src="karsilastir.js"></script>
+<script src="favorites.js"></script>
+<script src="favoriler.js"></script>
 </body>
 </html>
