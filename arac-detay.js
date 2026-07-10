@@ -36,6 +36,18 @@
     return "Yüksek";
   }
 
+  function listingCategory(car) {
+    var g = car.govde;
+    if (g.indexOf("Panelvan") !== -1) return { sahibinden: "satilik-panelvan", arabam: "panelvan" };
+    if (g.indexOf("Kamyon") !== -1) return { sahibinden: "satilik-kamyon-kamyonet", arabam: "kamyon-kamyonet" };
+    if (g.indexOf("Çekici") !== -1) return { sahibinden: "satilik-cekici", arabam: "cekici" };
+    if (g.indexOf("Traktör") !== -1) return { sahibinden: "satilik-traktor", arabam: "traktor" };
+    if (g.indexOf("Ekskavatör") !== -1 || g.indexOf("Kazıcı") !== -1) return { sahibinden: "satilik-is-makinesi", arabam: "is-makinesi" };
+    if (g.indexOf("ATV") !== -1 || g.indexOf("UTV") !== -1) return { sahibinden: "satilik-atv-utv", arabam: "atv-utv" };
+    if (g.indexOf("Pickup") !== -1 || g.indexOf("Arazi SUV") !== -1 || g.indexOf("SUV") !== -1) return { sahibinden: "satilik-arazi-suv-pickup", arabam: "arazi-suv-pick-up" };
+    return { sahibinden: "satilik-otomobil", arabam: "otomobil" };
+  }
+
   function render(car) {
     document.title = car.marka + " " + car.model + " Değer Raporu | Değerini Öğren";
 
@@ -44,6 +56,7 @@
     var fillWidth = ((car.kmBandi.max - car.kmBandi.min) / scaleMax) * 100;
 
     var searchQuery = encodeURIComponent(car.marka + " " + car.model);
+    var cat = listingCategory(car);
 
     var html =
       '<div class="report reveal visible">' +
@@ -94,8 +107,8 @@
       '<div class="external-box reveal visible">' +
         "<p><strong>Güncel ilan ve kesin fiyat mı arıyorsun?</strong> Yukarıdaki aralık genel bir eğilimdir; canlı ilanlar için:</p>" +
         '<div style="display:flex;gap:10px;flex-wrap:wrap;">' +
-          '<a href="https://www.sahibinden.com/satilik-otomobil?query_text=' + searchQuery + '" target="_blank" rel="noopener" class="btn btn-secondary">sahibinden\'de ara →</a>' +
-          '<a href="https://www.arabam.com/ikinci-el-otomobil?query=' + searchQuery + '" target="_blank" rel="noopener" class="btn btn-secondary">arabam\'da ara →</a>' +
+          '<a href="https://www.sahibinden.com/' + cat.sahibinden + '?query_text=' + searchQuery + '" target="_blank" rel="noopener" class="btn btn-secondary">sahibinden\'de ara →</a>' +
+          '<a href="https://www.arabam.com/ikinci-el-' + cat.arabam + '?query=' + searchQuery + '" target="_blank" rel="noopener" class="btn btn-secondary">arabam\'da ara →</a>' +
         "</div>" +
       "</div>";
 
