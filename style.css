@@ -151,7 +151,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
     border-bottom: 1px solid var(--line); flex-direction: column; align-items: flex-start;
     gap: 0; max-height: 0; overflow: hidden; transition: max-height .3s ease;
   }
-  .nav-links.open { max-height: 80vh; overflow-y: auto; }
+  .nav-links.open { max-height: 1200px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
   .nav-links li { width: 100%; }
   .nav-links a { display: block; padding: 14px 24px; width: 100%; border-top: 1px solid var(--line); border-bottom: none; }
   .nav-links a.active { border-left: 3px solid var(--accent); background: var(--surface-2); }
