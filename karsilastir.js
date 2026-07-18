@@ -110,7 +110,7 @@
       rowsFor(cars, "Kronik Noktalar", chronicSummary) +
       numRowsFor(cars, "Tramer Oranı (örnek)", function (c) { return "%" + c.tramerOrani; }) +
       rowsFor(cars, "Değer Raporu", function (c) {
-        return "<a href='arac-detay.html?id=" + c.id + "' style='color:var(--primary);font-weight:700;'>Detaya git →</a>";
+        return "<a href='" + c.id + "-fiyat-degeri.html' style='color:var(--primary);font-weight:700;'>Detaya git →</a>";
       }) +
       "</tbody></table>";
   }

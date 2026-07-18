@@ -24,7 +24,7 @@
       "</div>" +
       '<div class="result-foot">' +
       '<span style="color:var(--ink-muted);font-size:.8rem;">' + car.kmBandi.yaygin + "</span>" +
-      '<a href="arac-detay.html?id=' + car.id + '">Değer Raporu →</a>' +
+      '<a href="' + car.id + '-fiyat-degeri.html">Değer Raporu →</a>' +
       "</div>" +
       "</div>"
     );
