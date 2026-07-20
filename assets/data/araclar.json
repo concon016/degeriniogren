@@ -13,8 +13,8 @@
       "yaygin": "50.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 620000,
-      "max": 1250000
+      "min": 710000,
+      "max": 950000
     },
     "motorSecenekleri": [
       {
@@ -72,8 +72,8 @@
       "yaygin": "20.000 - 55.000 km"
     },
     "fiyatAraligi": {
-      "min": 820000,
-      "max": 1630000
+      "min": 960000,
+      "max": 1290000
     },
     "motorSecenekleri": [
       {
@@ -115,8 +115,8 @@
       "yaygin": "150.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 340000,
-      "max": 670000
+      "min": 380000,
+      "max": 510000
     },
     "motorSecenekleri": [
       {
@@ -162,8 +162,8 @@
       "yaygin": "110.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 480000,
-      "max": 960000
+      "min": 550000,
+      "max": 750000
     },
     "motorSecenekleri": [
       {
@@ -205,8 +205,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 800000,
-      "max": 1600000
+      "min": 690000,
+      "max": 930000
     },
     "motorSecenekleri": [
       {
@@ -258,8 +258,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 700000,
-      "max": 1390000
+      "min": 970000,
+      "max": 1310000
     },
     "motorSecenekleri": [
       {
@@ -305,8 +305,8 @@
       "yaygin": "130.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 390000,
-      "max": 780000
+      "min": 440000,
+      "max": 590000
     },
     "motorSecenekleri": [
       {
@@ -348,8 +348,8 @@
       "yaygin": "130.000 - 190.000 km"
     },
     "fiyatAraligi": {
-      "min": 550000,
-      "max": 1100000
+      "min": 590000,
+      "max": 800000
     },
     "motorSecenekleri": [
       {
@@ -391,8 +391,8 @@
       "yaygin": "45.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 790000,
-      "max": 1590000
+      "min": 930000,
+      "max": 1260000
     },
     "motorSecenekleri": [
       {
@@ -440,8 +440,8 @@
       "yaygin": "60.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 690000,
-      "max": 1380000
+      "min": 930000,
+      "max": 1260000
     },
     "motorSecenekleri": [
       {
@@ -489,8 +489,8 @@
       "yaygin": "45.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1140000
+      "min": 710000,
+      "max": 960000
     },
     "motorSecenekleri": [
       {
@@ -528,8 +528,8 @@
       "yaygin": "90.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 1090000,
-      "max": 2180000
+      "min": 1260000,
+      "max": 1710000
     },
     "motorSecenekleri": [
       {
@@ -581,8 +581,8 @@
       "yaygin": "70.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 750000,
-      "max": 1490000
+      "min": 1030000,
+      "max": 1390000
     },
     "motorSecenekleri": [
       {
@@ -634,8 +634,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1140000
+      "min": 770000,
+      "max": 1040000
     },
     "motorSecenekleri": [
       {
@@ -677,8 +677,8 @@
       "yaygin": "140.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 660000,
-      "max": 1320000
+      "min": 630000,
+      "max": 850000
     },
     "motorSecenekleri": [
       {
@@ -720,8 +720,8 @@
       "yaygin": "60.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1110000,
-      "max": 2230000
+      "min": 1470000,
+      "max": 1980000
     },
     "motorSecenekleri": [
       {
@@ -763,8 +763,8 @@
       "yaygin": "80.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 760000,
-      "max": 1520000
+      "min": 1000000,
+      "max": 1350000
     },
     "motorSecenekleri": [
       {
@@ -806,8 +806,8 @@
       "yaygin": "45.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1520000,
-      "max": 3040000
+      "min": 1310000,
+      "max": 1780000
     },
     "motorSecenekleri": [
       {
@@ -845,8 +845,8 @@
       "yaygin": "50.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 420000,
-      "max": 850000
+      "min": 680000,
+      "max": 920000
     },
     "motorSecenekleri": [
       {
@@ -884,8 +884,8 @@
       "yaygin": "80.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1150000
+      "min": 730000,
+      "max": 980000
     },
     "motorSecenekleri": [
       {
@@ -927,8 +927,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 560000,
-      "max": 1120000
+      "min": 770000,
+      "max": 1040000
     },
     "motorSecenekleri": [
       {
@@ -966,8 +966,8 @@
       "yaygin": "100.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1150000
+      "min": 960000,
+      "max": 1300000
     },
     "motorSecenekleri": [
       {
@@ -1003,8 +1003,8 @@
       "yaygin": "45.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 600000,
-      "max": 1210000
+      "min": 980000,
+      "max": 1330000
     },
     "motorSecenekleri": [
       {
@@ -1042,8 +1042,8 @@
       "yaygin": "40.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 590000,
-      "max": 1180000
+      "min": 720000,
+      "max": 970000
     },
     "motorSecenekleri": [
       {
@@ -1081,8 +1081,8 @@
       "yaygin": "80.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 610000,
-      "max": 1220000
+      "min": 950000,
+      "max": 1290000
     },
     "motorSecenekleri": [
       {
@@ -1120,8 +1120,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 520000,
-      "max": 1040000
+      "min": 630000,
+      "max": 850000
     },
     "motorSecenekleri": [
       {
@@ -1163,8 +1163,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 460000,
-      "max": 920000
+      "min": 550000,
+      "max": 740000
     },
     "motorSecenekleri": [
       {
@@ -1206,8 +1206,8 @@
       "yaygin": "45.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 1060000,
-      "max": 2120000
+      "min": 1370000,
+      "max": 1860000
     },
     "motorSecenekleri": [
       {
@@ -1245,8 +1245,8 @@
       "yaygin": "45.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1240000,
-      "max": 2490000
+      "min": 1560000,
+      "max": 2110000
     },
     "motorSecenekleri": [
       {
@@ -1288,8 +1288,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 430000,
-      "max": 850000
+      "min": 580000,
+      "max": 780000
     },
     "motorSecenekleri": [
       {
@@ -1327,8 +1327,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 530000,
-      "max": 1050000
+      "min": 730000,
+      "max": 990000
     },
     "motorSecenekleri": [
       {
@@ -1366,8 +1366,8 @@
       "yaygin": "80.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 610000,
-      "max": 1220000
+      "min": 750000,
+      "max": 1020000
     },
     "motorSecenekleri": [
       {
@@ -1409,8 +1409,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 450000,
-      "max": 900000
+      "min": 430000,
+      "max": 580000
     },
     "motorSecenekleri": [
       {
@@ -1448,8 +1448,8 @@
       "yaygin": "60.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 990000,
-      "max": 1980000
+      "min": 1230000,
+      "max": 1660000
     },
     "motorSecenekleri": [
       {
@@ -1491,8 +1491,8 @@
       "yaygin": "80.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 860000,
-      "max": 1720000
+      "min": 1200000,
+      "max": 1620000
     },
     "motorSecenekleri": [
       {
@@ -1530,8 +1530,8 @@
       "yaygin": "55.000 - 105.000 km"
     },
     "fiyatAraligi": {
-      "min": 800000,
-      "max": 1610000
+      "min": 1070000,
+      "max": 1440000
     },
     "motorSecenekleri": [
       {
@@ -1563,8 +1563,8 @@
       "yaygin": "60.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1080000,
-      "max": 2170000
+      "min": 1110000,
+      "max": 1500000
     },
     "motorSecenekleri": [
       {
@@ -1606,8 +1606,8 @@
       "yaygin": "45.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 510000,
-      "max": 1030000
+      "min": 580000,
+      "max": 780000
     },
     "motorSecenekleri": [
       {
@@ -1645,8 +1645,8 @@
       "yaygin": "40.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 660000,
-      "max": 1320000
+      "min": 810000,
+      "max": 1090000
     },
     "motorSecenekleri": [
       {
@@ -1684,8 +1684,8 @@
       "yaygin": "60.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 790000,
-      "max": 1590000
+      "min": 1160000,
+      "max": 1570000
     },
     "motorSecenekleri": [
       {
@@ -1723,8 +1723,8 @@
       "yaygin": "55.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 460000,
-      "max": 920000
+      "min": 600000,
+      "max": 820000
     },
     "motorSecenekleri": [
       {
@@ -1762,8 +1762,8 @@
       "yaygin": "55.000 - 105.000 km"
     },
     "fiyatAraligi": {
-      "min": 580000,
-      "max": 1170000
+      "min": 620000,
+      "max": 840000
     },
     "motorSecenekleri": [
       {
@@ -1801,8 +1801,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 740000,
-      "max": 1490000
+      "min": 940000,
+      "max": 1280000
     },
     "motorSecenekleri": [
       {
@@ -1840,8 +1840,8 @@
       "yaygin": "80.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 790000,
-      "max": 1580000
+      "min": 1050000,
+      "max": 1420000
     },
     "motorSecenekleri": [
       {
@@ -1883,8 +1883,8 @@
       "yaygin": "55.000 - 105.000 km"
     },
     "fiyatAraligi": {
-      "min": 310000,
-      "max": 620000
+      "min": 430000,
+      "max": 580000
     },
     "motorSecenekleri": [
       {
@@ -1922,8 +1922,8 @@
       "yaygin": "60.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 550000,
-      "max": 1100000
+      "min": 650000,
+      "max": 890000
     },
     "motorSecenekleri": [
       {
@@ -1961,8 +1961,8 @@
       "yaygin": "45.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 960000,
-      "max": 1930000
+      "min": 1310000,
+      "max": 1770000
     },
     "motorSecenekleri": [
       {
@@ -2000,8 +2000,8 @@
       "yaygin": "70.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1230000,
-      "max": 2460000
+      "min": 1570000,
+      "max": 2120000
     },
     "motorSecenekleri": [
       {
@@ -2043,8 +2043,8 @@
       "yaygin": "70.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1100000,
-      "max": 2190000
+      "min": 1180000,
+      "max": 1600000
     },
     "motorSecenekleri": [
       {
@@ -2086,8 +2086,8 @@
       "yaygin": "60.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 730000,
-      "max": 2200000
+      "min": 1230000,
+      "max": 1660000
     },
     "motorSecenekleri": [
       {
@@ -2129,8 +2129,8 @@
       "yaygin": "80.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 1080000,
-      "max": 2170000
+      "min": 970000,
+      "max": 1320000
     },
     "motorSecenekleri": [
       {
@@ -2172,8 +2172,8 @@
       "yaygin": "130.000 - 190.000 km"
     },
     "fiyatAraligi": {
-      "min": 420000,
-      "max": 850000
+      "min": 480000,
+      "max": 650000
     },
     "motorSecenekleri": [
       {
@@ -2215,8 +2215,8 @@
       "yaygin": "20.000 - 60.000 km"
     },
     "fiyatAraligi": {
-      "min": 1090000,
-      "max": 2180000
+      "min": 1390000,
+      "max": 1880000
     },
     "motorSecenekleri": [
       {
@@ -2272,8 +2272,8 @@
       "yaygin": "50.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 860000,
-      "max": 1720000
+      "min": 1100000,
+      "max": 1480000
     },
     "motorSecenekleri": [
       {
@@ -2319,8 +2319,8 @@
       "yaygin": "30.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1020000,
-      "max": 3070000
+      "min": 1660000,
+      "max": 2250000
     },
     "motorSecenekleri": [
       {
@@ -2372,8 +2372,8 @@
       "yaygin": "60.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 1090000,
-      "max": 3280000
+      "min": 1860000,
+      "max": 2510000
     },
     "motorSecenekleri": [
       {
@@ -2429,8 +2429,8 @@
       "yaygin": "40.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1430000,
-      "max": 4300000
+      "min": 2440000,
+      "max": 3290000
     },
     "motorSecenekleri": [
       {
@@ -2476,8 +2476,8 @@
       "yaygin": "40.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 910000,
-      "max": 2720000
+      "min": 1420000,
+      "max": 2560000
     },
     "motorSecenekleri": [
       {
@@ -2523,8 +2523,8 @@
       "yaygin": "15.000 - 50.000 km"
     },
     "fiyatAraligi": {
-      "min": 1920000,
-      "max": 5770000
+      "min": 2920000,
+      "max": 5260000
     },
     "motorSecenekleri": [
       {
@@ -2570,8 +2570,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 3110000,
-      "max": 9320000
+      "min": 4010000,
+      "max": 7220000
     },
     "motorSecenekleri": [
       {
@@ -2617,8 +2617,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 2950000
+      "min": 1470000,
+      "max": 2650000
     },
     "motorSecenekleri": [
       {
@@ -2664,8 +2664,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 4120000,
-      "max": 12360000
+      "min": 5230000,
+      "max": 9420000
     },
     "motorSecenekleri": [
       {
@@ -2705,8 +2705,8 @@
       "yaygin": "90.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 520000,
-      "max": 1050000
+      "min": 1930000,
+      "max": 2600000
     },
     "motorSecenekleri": [
       {
@@ -2752,8 +2752,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 790000,
-      "max": 1590000
+      "min": 1030000,
+      "max": 1390000
     },
     "motorSecenekleri": [
       {
@@ -2799,8 +2799,8 @@
       "yaygin": "15.000 - 55.000 km"
     },
     "fiyatAraligi": {
-      "min": 1110000,
-      "max": 3340000
+      "min": 1890000,
+      "max": 2560000
     },
     "motorSecenekleri": [
       {
@@ -2842,8 +2842,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 1240000,
-      "max": 3710000
+      "min": 1560000,
+      "max": 2110000
     },
     "motorSecenekleri": [
       {
@@ -2889,8 +2889,8 @@
       "yaygin": "60.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 2860000
+      "min": 1620000,
+      "max": 2180000
     },
     "motorSecenekleri": [
       {
@@ -2942,8 +2942,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 1990000,
-      "max": 5980000
+      "min": 1830000,
+      "max": 2470000
     },
     "motorSecenekleri": [
       {
@@ -2989,8 +2989,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 970000,
-      "max": 2900000
+      "min": 1620000,
+      "max": 2920000
     },
     "motorSecenekleri": [
       {
@@ -3036,8 +3036,8 @@
       "yaygin": "20.000 - 80.000 km"
     },
     "fiyatAraligi": {
-      "min": 1200000,
-      "max": 3610000
+      "min": 1730000,
+      "max": 3120000
     },
     "motorSecenekleri": [
       {
@@ -3079,8 +3079,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1360000,
-      "max": 4080000
+      "min": 1710000,
+      "max": 3080000
     },
     "motorSecenekleri": [
       {
@@ -3126,8 +3126,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 2950000
+      "min": 1250000,
+      "max": 2240000
     },
     "motorSecenekleri": [
       {
@@ -3173,8 +3173,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 1080000,
-      "max": 3250000
+      "min": 1040000,
+      "max": 1870000
     },
     "motorSecenekleri": [
       {
@@ -3220,8 +3220,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 2940000
+      "min": 1430000,
+      "max": 2580000
     },
     "motorSecenekleri": [
       {
@@ -3261,8 +3261,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 610000,
-      "max": 1210000
+      "min": 790000,
+      "max": 1060000
     },
     "motorSecenekleri": [
       {
@@ -3308,8 +3308,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1490000,
-      "max": 4480000
+      "min": 1500000,
+      "max": 2030000
     },
     "motorSecenekleri": [
       {
@@ -3355,8 +3355,8 @@
       "yaygin": "60.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 1160000,
-      "max": 3460000
+      "min": 2020000,
+      "max": 2730000
     },
     "motorSecenekleri": [
       {
@@ -3408,8 +3408,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 2800000,
-      "max": 5200000
+      "min": 3400000,
+      "max": 4600000
     },
     "motorSecenekleri": [
       {
@@ -3449,8 +3449,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 2020000,
-      "max": 6060000
+      "min": 2690000,
+      "max": 3650000
     },
     "motorSecenekleri": [
       {
@@ -3486,8 +3486,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1080000,
-      "max": 3240000
+      "min": 1460000,
+      "max": 2630000
     },
     "motorSecenekleri": [
       {
@@ -3533,8 +3533,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1440000,
-      "max": 4310000
+      "min": 2470000,
+      "max": 4440000
     },
     "motorSecenekleri": [
       {
@@ -3580,8 +3580,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 870000,
-      "max": 2610000
+      "min": 1470000,
+      "max": 2650000
     },
     "motorSecenekleri": [
       {
@@ -3627,8 +3627,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 1160000,
-      "max": 3480000
+      "min": 1420000,
+      "max": 2560000
     },
     "motorSecenekleri": [
       {
@@ -3664,8 +3664,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 4920000,
-      "max": 14770000
+      "min": 6690000,
+      "max": 12050000
     },
     "motorSecenekleri": [
       {
@@ -3705,8 +3705,8 @@
       "yaygin": "30.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 2580000,
-      "max": 7740000
+      "min": 3610000,
+      "max": 6500000
     },
     "motorSecenekleri": [
       {
@@ -3752,8 +3752,8 @@
       "yaygin": "40.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 2240000,
-      "max": 6720000
+      "min": 2260000,
+      "max": 4070000
     },
     "motorSecenekleri": [
       {
@@ -3799,8 +3799,8 @@
       "yaygin": "30.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 2210000,
-      "max": 6640000
+      "min": 4370000,
+      "max": 7860000
     },
     "motorSecenekleri": [
       {
@@ -3840,8 +3840,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 670000,
-      "max": 2010000
+      "min": 1100000,
+      "max": 1480000
     },
     "motorSecenekleri": [
       {
@@ -3885,8 +3885,8 @@
       "yaygin": "20.000 - 75.000 km"
     },
     "fiyatAraligi": {
-      "min": 1270000,
-      "max": 2550000
+      "min": 1540000,
+      "max": 2080000
     },
     "motorSecenekleri": [
       {
@@ -3932,8 +3932,8 @@
       "yaygin": "15.000 - 65.000 km"
     },
     "fiyatAraligi": {
-      "min": 1070000,
-      "max": 2150000
+      "min": 1380000,
+      "max": 1860000
     },
     "motorSecenekleri": [
       {
@@ -3973,8 +3973,8 @@
       "yaygin": "30.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1220000,
-      "max": 3650000
+      "min": 1820000,
+      "max": 2460000
     },
     "motorSecenekleri": [
       {
@@ -4020,8 +4020,8 @@
       "yaygin": "80.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 670000,
-      "max": 1340000
+      "min": 770000,
+      "max": 1040000
     },
     "motorSecenekleri": [
       {
@@ -4061,8 +4061,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 1020000,
-      "max": 2040000
+      "min": 1010000,
+      "max": 1360000
     },
     "motorSecenekleri": [
       {
@@ -4108,8 +4108,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 1900000
+      "min": 1230000,
+      "max": 1660000
     },
     "motorSecenekleri": [
       {
@@ -4155,8 +4155,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1300000,
-      "max": 2590000
+      "min": 1590000,
+      "max": 2140000
     },
     "motorSecenekleri": [
       {
@@ -4202,8 +4202,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 890000,
-      "max": 1780000
+      "min": 1080000,
+      "max": 1460000
     },
     "motorSecenekleri": [
       {
@@ -4243,8 +4243,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 690000,
-      "max": 1390000
+      "min": 1010000,
+      "max": 1370000
     },
     "motorSecenekleri": [
       {
@@ -4284,8 +4284,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 1960000
+      "min": 1100000,
+      "max": 1480000
     },
     "motorSecenekleri": [
       {
@@ -4327,8 +4327,8 @@
       "yaygin": "30.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 1700000,
-      "max": 2900000
+      "min": 1960000,
+      "max": 2640000
     },
     "motorSecenekleri": [
       {
@@ -4374,8 +4374,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 870000,
-      "max": 1730000
+      "min": 1090000,
+      "max": 1470000
     },
     "motorSecenekleri": [
       {
@@ -4421,8 +4421,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1040000,
-      "max": 2080000
+      "min": 1170000,
+      "max": 1590000
     },
     "motorSecenekleri": [
       {
@@ -4468,8 +4468,8 @@
       "yaygin": "60.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 300000,
-      "max": 610000
+      "min": 340000,
+      "max": 460000
     },
     "motorSecenekleri": [
       {
@@ -4509,8 +4509,8 @@
       "yaygin": "90.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 210000,
-      "max": 420000
+      "min": 270000,
+      "max": 360000
     },
     "motorSecenekleri": [
       {
@@ -4550,8 +4550,8 @@
       "yaygin": "10.000 - 35.000 km"
     },
     "fiyatAraligi": {
-      "min": 1550000,
-      "max": 3100000
+      "min": 2120000,
+      "max": 2870000
     },
     "motorSecenekleri": [
       {
@@ -4597,8 +4597,8 @@
       "yaygin": "10.000 - 40.000 km"
     },
     "fiyatAraligi": {
-      "min": 650000,
-      "max": 1300000
+      "min": 780000,
+      "max": 1050000
     },
     "motorSecenekleri": [
       {
@@ -4640,8 +4640,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 560000,
-      "max": 1110000
+      "min": 620000,
+      "max": 840000
     },
     "motorSecenekleri": [
       {
@@ -4691,8 +4691,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 600000,
-      "max": 1200000
+      "min": 1350000,
+      "max": 1830000
     },
     "motorSecenekleri": [
       {
@@ -4742,8 +4742,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 1280000,
-      "max": 2550000
+      "min": 1350000,
+      "max": 1820000
     },
     "motorSecenekleri": [
       {
@@ -4789,8 +4789,8 @@
       "yaygin": "40.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1040000,
-      "max": 2070000
+      "min": 1290000,
+      "max": 1740000
     },
     "motorSecenekleri": [
       {
@@ -4830,8 +4830,8 @@
       "yaygin": "90.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 240000,
-      "max": 490000
+      "min": 380000,
+      "max": 510000
     },
     "motorSecenekleri": [
       {
@@ -4871,8 +4871,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 380000,
-      "max": 750000
+      "min": 600000,
+      "max": 810000
     },
     "motorSecenekleri": [
       {
@@ -4918,8 +4918,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 720000,
-      "max": 1450000
+      "min": 830000,
+      "max": 1120000
     },
     "motorSecenekleri": [
       {
@@ -4959,8 +4959,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1280000,
-      "max": 2560000
+      "min": 1650000,
+      "max": 2230000
     },
     "motorSecenekleri": [
       {
@@ -5006,8 +5006,8 @@
       "yaygin": "90.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 540000,
-      "max": 1080000
+      "min": 1060000,
+      "max": 1430000
     },
     "motorSecenekleri": [
       {
@@ -5047,8 +5047,8 @@
       "yaygin": "30.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 1650000
+      "min": 1100000,
+      "max": 1500000
     },
     "motorSecenekleri": [
       {
@@ -5088,8 +5088,8 @@
       "yaygin": "20.000 - 75.000 km"
     },
     "fiyatAraligi": {
-      "min": 1550000,
-      "max": 2600000
+      "min": 1760000,
+      "max": 2390000
     },
     "motorSecenekleri": [
       {
@@ -5135,8 +5135,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 610000,
-      "max": 1220000
+      "min": 730000,
+      "max": 980000
     },
     "motorSecenekleri": [
       {
@@ -5178,8 +5178,8 @@
       "yaygin": "50.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 300000,
-      "max": 600000
+      "min": 410000,
+      "max": 560000
     },
     "motorSecenekleri": [
       {
@@ -5221,8 +5221,8 @@
       "yaygin": "180.000 - 280.000 km"
     },
     "fiyatAraligi": {
-      "min": 120000,
-      "max": 240000
+      "min": 160000,
+      "max": 210000
     },
     "motorSecenekleri": [
       {
@@ -5268,8 +5268,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 750000,
-      "max": 1490000
+      "min": 950000,
+      "max": 1290000
     },
     "motorSecenekleri": [
       {
@@ -5311,8 +5311,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 480000,
-      "max": 950000
+      "min": 560000,
+      "max": 750000
     },
     "motorSecenekleri": [
       {
@@ -5348,8 +5348,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 750000,
-      "max": 1350000
+      "min": 890000,
+      "max": 1210000
     },
     "motorSecenekleri": [
       {
@@ -5391,8 +5391,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1500000,
-      "max": 2900000
+      "min": 1870000,
+      "max": 2530000
     },
     "motorSecenekleri": [
       {
@@ -5434,8 +5434,8 @@
       "yaygin": "30.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1900000,
-      "max": 3400000
+      "min": 2250000,
+      "max": 3050000
     },
     "motorSecenekleri": [
       {
@@ -5471,8 +5471,8 @@
       "yaygin": "50.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 330000,
-      "max": 660000
+      "min": 390000,
+      "max": 520000
     },
     "motorSecenekleri": [
       {
@@ -5508,8 +5508,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 630000,
-      "max": 1270000
+      "min": 690000,
+      "max": 940000
     },
     "motorSecenekleri": [
       {
@@ -5561,8 +5561,8 @@
       "yaygin": "80.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 380000,
-      "max": 770000
+      "min": 490000,
+      "max": 660000
     },
     "motorSecenekleri": [
       {
@@ -5608,8 +5608,8 @@
       "yaygin": "30.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 770000,
-      "max": 1540000
+      "min": 980000,
+      "max": 1330000
     },
     "motorSecenekleri": [
       {
@@ -5655,8 +5655,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 360000,
-      "max": 720000
+      "min": 390000,
+      "max": 530000
     },
     "motorSecenekleri": [
       {
@@ -5696,8 +5696,8 @@
       "yaygin": "10.000 - 40.000 km"
     },
     "fiyatAraligi": {
-      "min": 1720000,
-      "max": 3440000
+      "min": 1930000,
+      "max": 2600000
     },
     "motorSecenekleri": [
       {
@@ -5737,8 +5737,8 @@
       "yaygin": "30.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 550000,
-      "max": 900000
+      "min": 620000,
+      "max": 830000
     },
     "motorSecenekleri": [
       {
@@ -5774,8 +5774,8 @@
       "yaygin": "90.000 - 190.000 km"
     },
     "fiyatAraligi": {
-      "min": 1490000,
-      "max": 2980000
+      "min": 1900000,
+      "max": 2570000
     },
     "motorSecenekleri": [
       {
@@ -5817,8 +5817,8 @@
       "yaygin": "60.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 1320000,
-      "max": 3960000
+      "min": 1780000,
+      "max": 2410000
     },
     "motorSecenekleri": [
       {
@@ -5864,8 +5864,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 1960000
+      "min": 1280000,
+      "max": 1720000
     },
     "motorSecenekleri": [
       {
@@ -5907,8 +5907,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1510000,
-      "max": 3020000
+      "min": 1930000,
+      "max": 2620000
     },
     "motorSecenekleri": [
       {
@@ -5950,8 +5950,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 440000,
-      "max": 890000
+      "min": 550000,
+      "max": 750000
     },
     "motorSecenekleri": [
       {
@@ -5993,8 +5993,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 880000,
-      "max": 1760000
+      "min": 970000,
+      "max": 1320000
     },
     "motorSecenekleri": [
       {
@@ -6036,8 +6036,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1150000,
-      "max": 2310000
+      "min": 1360000,
+      "max": 1840000
     },
     "motorSecenekleri": [
       {
@@ -6083,8 +6083,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 600000,
-      "max": 1200000
+      "min": 760000,
+      "max": 1030000
     },
     "motorSecenekleri": [
       {
@@ -6120,8 +6120,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 320000,
-      "max": 650000
+      "min": 510000,
+      "max": 700000
     },
     "motorSecenekleri": [
       {
@@ -6163,8 +6163,8 @@
       "yaygin": "90.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 150000,
-      "max": 300000
+      "min": 180000,
+      "max": 240000
     },
     "motorSecenekleri": [
       {
@@ -6200,8 +6200,8 @@
       "yaygin": "30.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 380000,
-      "max": 770000
+      "min": 470000,
+      "max": 640000
     },
     "motorSecenekleri": [
       {
@@ -6237,8 +6237,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 480000,
-      "max": 950000
+      "min": 580000,
+      "max": 790000
     },
     "motorSecenekleri": [
       {
@@ -6280,8 +6280,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 880000,
-      "max": 1760000
+      "min": 1070000,
+      "max": 1440000
     },
     "motorSecenekleri": [
       {
@@ -6317,8 +6317,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1250000,
-      "max": 2200000
+      "min": 970000,
+      "max": 1320000
     },
     "motorSecenekleri": [
       {
@@ -6360,8 +6360,8 @@
       "yaygin": "90.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 360000,
-      "max": 730000
+      "min": 410000,
+      "max": 560000
     },
     "motorSecenekleri": [
       {
@@ -6403,8 +6403,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 620000,
-      "max": 1230000
+      "min": 710000,
+      "max": 960000
     },
     "motorSecenekleri": [
       {
@@ -6446,8 +6446,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1250000,
-      "max": 2200000
+      "min": 540000,
+      "max": 730000
     },
     "motorSecenekleri": [
       {
@@ -6489,8 +6489,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 1450000,
-      "max": 2600000
+      "min": 1720000,
+      "max": 2330000
     },
     "motorSecenekleri": [
       {
@@ -6526,8 +6526,8 @@
       "yaygin": "30.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 700000,
-      "max": 1400000
+      "min": 810000,
+      "max": 1100000
     },
     "motorSecenekleri": [
       {
@@ -6563,8 +6563,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 400000,
-      "max": 810000
+      "min": 530000,
+      "max": 720000
     },
     "motorSecenekleri": [
       {
@@ -6604,8 +6604,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1090000,
-      "max": 2170000
+      "min": 1140000,
+      "max": 1540000
     },
     "motorSecenekleri": [
       {
@@ -6651,8 +6651,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1030000,
-      "max": 2070000
+      "min": 990000,
+      "max": 1350000
     },
     "motorSecenekleri": [
       {
@@ -6698,8 +6698,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 530000,
-      "max": 1070000
+      "min": 520000,
+      "max": 700000
     },
     "motorSecenekleri": [
       {
@@ -6735,8 +6735,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 640000,
-      "max": 1270000
+      "min": 810000,
+      "max": 1100000
     },
     "motorSecenekleri": [
       {
@@ -6772,8 +6772,8 @@
       "yaygin": "20.000 - 70.000 km"
     },
     "fiyatAraligi": {
-      "min": 470000,
-      "max": 1400000
+      "min": 770000,
+      "max": 1040000
     },
     "motorSecenekleri": [
       {
@@ -6809,8 +6809,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 190000,
-      "max": 370000
+      "min": 590000,
+      "max": 790000
     },
     "motorSecenekleri": [
       {
@@ -6846,8 +6846,8 @@
       "yaygin": "80.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 910000,
-      "max": 1820000
+      "min": 1200000,
+      "max": 1620000
     },
     "motorSecenekleri": [
       {
@@ -6883,8 +6883,8 @@
       "yaygin": "30.000 - 95.000 km"
     },
     "fiyatAraligi": {
-      "min": 2060000,
-      "max": 6170000
+      "min": 3090000,
+      "max": 5560000
     },
     "motorSecenekleri": [
       {
@@ -6924,8 +6924,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 620000,
-      "max": 1250000
+      "min": 810000,
+      "max": 1090000
     },
     "motorSecenekleri": [
       {
@@ -6971,8 +6971,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 490000,
-      "max": 980000
+      "min": 230000,
+      "max": 310000
     },
     "motorSecenekleri": [
       {
@@ -7014,8 +7014,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1220000,
-      "max": 2430000
+      "min": 1370000,
+      "max": 1850000
     },
     "motorSecenekleri": [
       {
@@ -7061,8 +7061,8 @@
       "yaygin": "15.000 - 55.000 km"
     },
     "fiyatAraligi": {
-      "min": 1010000,
-      "max": 2030000
+      "min": 1240000,
+      "max": 1680000
     },
     "motorSecenekleri": [
       {
@@ -7102,8 +7102,8 @@
       "yaygin": "20.000 - 80.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 1950000
+      "min": 1200000,
+      "max": 1620000
     },
     "motorSecenekleri": [
       {
@@ -7149,8 +7149,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 450000,
-      "max": 1350000
+      "min": 650000,
+      "max": 880000
     },
     "motorSecenekleri": [
       {
@@ -7192,8 +7192,8 @@
       "yaygin": "100.000 - 210.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 1900000
+      "min": 1250000,
+      "max": 1700000
     },
     "motorSecenekleri": [
       {
@@ -7229,8 +7229,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 730000,
-      "max": 1470000
+      "min": 660000,
+      "max": 890000
     },
     "motorSecenekleri": [
       {
@@ -7276,8 +7276,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 1900000
+      "min": 1160000,
+      "max": 1570000
     },
     "motorSecenekleri": [
       {
@@ -7313,8 +7313,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 300000,
-      "max": 900000
+      "min": 760000,
+      "max": 1030000
     },
     "motorSecenekleri": [
       {
@@ -7356,8 +7356,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 770000,
-      "max": 1550000
+      "min": 930000,
+      "max": 1260000
     },
     "motorSecenekleri": [
       {
@@ -7393,8 +7393,8 @@
       "yaygin": "20.000 - 75.000 km"
     },
     "fiyatAraligi": {
-      "min": 1290000,
-      "max": 2590000
+      "min": 1510000,
+      "max": 2040000
     },
     "motorSecenekleri": [
       {
@@ -7440,8 +7440,8 @@
       "yaygin": "60.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 850000,
-      "max": 1500000
+      "min": 1200000,
+      "max": 1630000
     },
     "motorSecenekleri": [
       {
@@ -7477,8 +7477,8 @@
       "yaygin": "50.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 700000,
-      "max": 1250000
+      "min": 830000,
+      "max": 1120000
     },
     "motorSecenekleri": [
       {
@@ -7520,8 +7520,8 @@
       "yaygin": "40.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1350000,
-      "max": 2300000
+      "min": 1140000,
+      "max": 1550000
     },
     "motorSecenekleri": [
       {
@@ -7557,8 +7557,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 420000,
-      "max": 850000
+      "min": 440000,
+      "max": 590000
     },
     "motorSecenekleri": [
       {
@@ -7604,8 +7604,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 800000,
-      "max": 1610000
+      "min": 980000,
+      "max": 1320000
     },
     "motorSecenekleri": [
       {
@@ -7647,8 +7647,8 @@
       "yaygin": "15.000 - 60.000 km"
     },
     "fiyatAraligi": {
-      "min": 1150000,
-      "max": 1950000
+      "min": 1320000,
+      "max": 1780000
     },
     "motorSecenekleri": [
       {
@@ -7684,8 +7684,8 @@
       "yaygin": "80.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 1310000,
-      "max": 2620000
+      "min": 1160000,
+      "max": 1570000
     },
     "motorSecenekleri": [
       {
@@ -7727,8 +7727,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 450000,
-      "max": 900000
+      "min": 790000,
+      "max": 1070000
     },
     "motorSecenekleri": [
       {
@@ -7768,8 +7768,8 @@
       "yaygin": "50.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 1450000,
-      "max": 2400000
+      "min": 1640000,
+      "max": 2210000
     },
     "motorSecenekleri": [
       {
@@ -7809,8 +7809,8 @@
       "yaygin": "90.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 290000,
-      "max": 570000
+      "min": 370000,
+      "max": 490000
     },
     "motorSecenekleri": [
       {
@@ -7846,8 +7846,8 @@
       "yaygin": "80.000 - 160.000 km"
     },
     "fiyatAraligi": {
-      "min": 520000,
-      "max": 1030000
+      "min": 640000,
+      "max": 870000
     },
     "motorSecenekleri": [
       {
@@ -7883,8 +7883,8 @@
       "yaygin": "60.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1140000
+      "min": 670000,
+      "max": 910000
     },
     "motorSecenekleri": [
       {
@@ -7916,8 +7916,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 1900000
+      "min": 1250000,
+      "max": 1700000
     },
     "motorSecenekleri": [
       {
@@ -7959,8 +7959,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1150000,
-      "max": 2290000
+      "min": 1490000,
+      "max": 2020000
     },
     "motorSecenekleri": [
       {
@@ -8002,8 +8002,8 @@
       "yaygin": "50.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1550000,
-      "max": 2700000
+      "min": 800000,
+      "max": 1080000
     },
     "motorSecenekleri": [
       {
@@ -8043,8 +8043,8 @@
       "yaygin": "60.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 510000,
-      "max": 1530000
+      "min": 830000,
+      "max": 1130000
     },
     "motorSecenekleri": [
       {
@@ -8080,8 +8080,8 @@
       "yaygin": "50.000 - 150.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 2850000
+      "min": 1260000,
+      "max": 2270000
     },
     "motorSecenekleri": [
       {
@@ -8127,8 +8127,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1770000,
-      "max": 5320000
+      "min": 1790000,
+      "max": 2420000
     },
     "motorSecenekleri": [
       {
@@ -8174,8 +8174,8 @@
       "yaygin": "20.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1440000,
-      "max": 2870000
+      "min": 1730000,
+      "max": 2340000
     },
     "motorSecenekleri": [
       {
@@ -8217,8 +8217,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 670000,
-      "max": 1340000
+      "min": 780000,
+      "max": 1050000
     },
     "motorSecenekleri": [
       {
@@ -8260,8 +8260,8 @@
       "yaygin": "20.000 - 75.000 km"
     },
     "fiyatAraligi": {
-      "min": 1190000,
-      "max": 2370000
+      "min": 1390000,
+      "max": 1880000
     },
     "motorSecenekleri": [
       {
@@ -8297,8 +8297,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 980000,
-      "max": 1950000
+      "min": 1160000,
+      "max": 1580000
     },
     "motorSecenekleri": [
       {
@@ -8334,8 +8334,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 1280000,
-      "max": 2570000
+      "min": 1570000,
+      "max": 2120000
     },
     "motorSecenekleri": [
       {
@@ -8381,8 +8381,8 @@
       "yaygin": "20.000 - 85.000 km"
     },
     "fiyatAraligi": {
-      "min": 1220000,
-      "max": 3670000
+      "min": 1870000,
+      "max": 2530000
     },
     "motorSecenekleri": [
       {
@@ -8428,8 +8428,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 710000,
-      "max": 1420000
+      "min": 880000,
+      "max": 1190000
     },
     "motorSecenekleri": [
       {
@@ -8471,8 +8471,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 880000,
-      "max": 1760000
+      "min": 1050000,
+      "max": 1410000
     },
     "motorSecenekleri": [
       {
@@ -8514,8 +8514,8 @@
       "yaygin": "20.000 - 90.000 km"
     },
     "fiyatAraligi": {
-      "min": 1330000,
-      "max": 3980000
+      "min": 1850000,
+      "max": 3330000
     },
     "motorSecenekleri": [
       {
@@ -8557,8 +8557,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 1580000,
-      "max": 4740000
+      "min": 3320000,
+      "max": 5970000
     },
     "motorSecenekleri": [
       {
@@ -8600,8 +8600,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 2400000,
-      "max": 7200000
+      "min": 3900000,
+      "max": 7020000
     },
     "motorSecenekleri": [
       {
@@ -8647,8 +8647,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1120000,
-      "max": 3360000
+      "min": 1510000,
+      "max": 2720000
     },
     "motorSecenekleri": [
       {
@@ -8698,8 +8698,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 3150000
+      "min": 1530000,
+      "max": 2760000
     },
     "motorSecenekleri": [
       {
@@ -8749,8 +8749,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 1940000,
-      "max": 5820000
+      "min": 3060000,
+      "max": 5500000
     },
     "motorSecenekleri": [
       {
@@ -8794,8 +8794,8 @@
       "yaygin": "15.000 - 55.000 km"
     },
     "fiyatAraligi": {
-      "min": 3600000,
-      "max": 6800000
+      "min": 3540000,
+      "max": 4790000
     },
     "motorSecenekleri": [
       {
@@ -8841,8 +8841,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 840000,
-      "max": 2520000
+      "min": 1310000,
+      "max": 1770000
     },
     "motorSecenekleri": [
       {
@@ -8892,8 +8892,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 580000,
-      "max": 1730000
+      "min": 2130000,
+      "max": 2880000
     },
     "motorSecenekleri": [
       {
@@ -8943,8 +8943,8 @@
       "yaygin": "10.000 - 40.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 1650000
+      "min": 1100000,
+      "max": 1500000
     },
     "motorSecenekleri": [
       {
@@ -8990,8 +8990,8 @@
       "yaygin": "10.000 - 35.000 km"
     },
     "fiyatAraligi": {
-      "min": 750000,
-      "max": 1250000
+      "min": 850000,
+      "max": 1150000
     },
     "motorSecenekleri": [
       {
@@ -9027,8 +9027,8 @@
       "yaygin": "10.000 - 38.000 km"
     },
     "fiyatAraligi": {
-      "min": 1170000,
-      "max": 2340000
+      "min": 1430000,
+      "max": 1930000
     },
     "motorSecenekleri": [
       {
@@ -9074,8 +9074,8 @@
       "yaygin": "10.000 - 38.000 km"
     },
     "fiyatAraligi": {
-      "min": 1160000,
-      "max": 2330000
+      "min": 1410000,
+      "max": 1910000
     },
     "motorSecenekleri": [
       {
@@ -9115,8 +9115,8 @@
       "yaygin": "10.000 - 35.000 km"
     },
     "fiyatAraligi": {
-      "min": 900000,
-      "max": 1500000
+      "min": 1020000,
+      "max": 1380000
     },
     "motorSecenekleri": [
       {
@@ -9156,8 +9156,8 @@
       "yaygin": "10.000 - 38.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 1750000
+      "min": 1190000,
+      "max": 1610000
     },
     "motorSecenekleri": [
       {
@@ -9203,8 +9203,8 @@
       "yaygin": "10.000 - 38.000 km"
     },
     "fiyatAraligi": {
-      "min": 1350000,
-      "max": 2200000
+      "min": 1510000,
+      "max": 2040000
     },
     "motorSecenekleri": [
       {
@@ -9250,8 +9250,8 @@
       "yaygin": "180.000 - 300.000 km"
     },
     "fiyatAraligi": {
-      "min": 100000,
-      "max": 200000
+      "min": 140000,
+      "max": 190000
     },
     "motorSecenekleri": [
       {
@@ -9291,8 +9291,8 @@
       "yaygin": "180.000 - 300.000 km"
     },
     "fiyatAraligi": {
-      "min": 140000,
-      "max": 290000
+      "min": 160000,
+      "max": 220000
     },
     "motorSecenekleri": [
       {
@@ -9332,8 +9332,8 @@
       "yaygin": "200.000 - 320.000 km"
     },
     "fiyatAraligi": {
-      "min": 120000,
-      "max": 250000
+      "min": 150000,
+      "max": 210000
     },
     "motorSecenekleri": [
       {
@@ -9373,8 +9373,8 @@
       "yaygin": "180.000 - 300.000 km"
     },
     "fiyatAraligi": {
-      "min": 160000,
-      "max": 380000
+      "min": 230000,
+      "max": 310000
     },
     "motorSecenekleri": [
       {
@@ -9414,8 +9414,8 @@
       "yaygin": "170.000 - 280.000 km"
     },
     "fiyatAraligi": {
-      "min": 180000,
-      "max": 400000
+      "min": 250000,
+      "max": 330000
     },
     "motorSecenekleri": [
       {
@@ -9455,8 +9455,8 @@
       "yaygin": "150.000 - 270.000 km"
     },
     "fiyatAraligi": {
-      "min": 670000,
-      "max": 1330000
+      "min": 850000,
+      "max": 1150000
     },
     "motorSecenekleri": [
       {
@@ -9506,8 +9506,8 @@
       "yaygin": "150.000 - 240.000 km"
     },
     "fiyatAraligi": {
-      "min": 240000,
-      "max": 470000
+      "min": 270000,
+      "max": 360000
     },
     "motorSecenekleri": [
       {
@@ -9553,8 +9553,8 @@
       "yaygin": "160.000 - 250.000 km"
     },
     "fiyatAraligi": {
-      "min": 190000,
-      "max": 370000
+      "min": 240000,
+      "max": 320000
     },
     "motorSecenekleri": [
       {
@@ -9600,8 +9600,8 @@
       "yaygin": "170.000 - 260.000 km"
     },
     "fiyatAraligi": {
-      "min": 190000,
-      "max": 380000
+      "min": 210000,
+      "max": 280000
     },
     "motorSecenekleri": [
       {
@@ -9647,8 +9647,8 @@
       "yaygin": "90.000 - 170.000 km"
     },
     "fiyatAraligi": {
-      "min": 370000,
-      "max": 740000
+      "min": 340000,
+      "max": 460000
     },
     "motorSecenekleri": [
       {
@@ -9690,8 +9690,8 @@
       "yaygin": "130.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 210000,
-      "max": 420000
+      "min": 220000,
+      "max": 290000
     },
     "motorSecenekleri": [
       {
@@ -9737,8 +9737,8 @@
       "yaygin": "130.000 - 230.000 km"
     },
     "fiyatAraligi": {
-      "min": 220000,
-      "max": 440000
+      "min": 250000,
+      "max": 340000
     },
     "motorSecenekleri": [
       {
@@ -9784,8 +9784,8 @@
       "yaygin": "90.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 300000,
-      "max": 600000
+      "min": 400000,
+      "max": 540000
     },
     "motorSecenekleri": [
       {
@@ -9831,8 +9831,8 @@
       "yaygin": "140.000 - 230.000 km"
     },
     "fiyatAraligi": {
-      "min": 260000,
-      "max": 510000
+      "min": 300000,
+      "max": 410000
     },
     "motorSecenekleri": [
       {
@@ -9878,8 +9878,8 @@
       "yaygin": "180.000 - 290.000 km"
     },
     "fiyatAraligi": {
-      "min": 130000,
-      "max": 250000
+      "min": 160000,
+      "max": 220000
     },
     "motorSecenekleri": [
       {
@@ -9925,8 +9925,8 @@
       "yaygin": "160.000 - 260.000 km"
     },
     "fiyatAraligi": {
-      "min": 160000,
-      "max": 320000
+      "min": 200000,
+      "max": 280000
     },
     "motorSecenekleri": [
       {
@@ -9972,8 +9972,8 @@
       "yaygin": "130.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 160000,
-      "max": 320000
+      "min": 200000,
+      "max": 280000
     },
     "motorSecenekleri": [
       {
@@ -10015,8 +10015,8 @@
       "yaygin": "100.000 - 190.000 km"
     },
     "fiyatAraligi": {
-      "min": 230000,
-      "max": 450000
+      "min": 260000,
+      "max": 350000
     },
     "motorSecenekleri": [
       {
@@ -10058,8 +10058,8 @@
       "yaygin": "140.000 - 240.000 km"
     },
     "fiyatAraligi": {
-      "min": 200000,
-      "max": 410000
+      "min": 240000,
+      "max": 320000
     },
     "motorSecenekleri": [
       {
@@ -10105,8 +10105,8 @@
       "yaygin": "90.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 300000,
-      "max": 600000
+      "min": 360000,
+      "max": 490000
     },
     "motorSecenekleri": [
       {
@@ -10152,8 +10152,8 @@
       "yaygin": "90.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 330000,
-      "max": 650000
+      "min": 350000,
+      "max": 480000
     },
     "motorSecenekleri": [
       {
@@ -10199,8 +10199,8 @@
       "yaygin": "100.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 490000,
-      "max": 980000
+      "min": 610000,
+      "max": 830000
     },
     "motorSecenekleri": [
       {
@@ -10244,8 +10244,8 @@
       "yaygin": "100.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 690000,
-      "max": 1390000
+      "min": 950000,
+      "max": 1290000
     },
     "motorSecenekleri": [
       {
@@ -10295,8 +10295,8 @@
       "yaygin": "100.000 - 240.000 km"
     },
     "fiyatAraligi": {
-      "min": 380000,
-      "max": 770000
+      "min": 420000,
+      "max": 570000
     },
     "motorSecenekleri": [
       {
@@ -10346,8 +10346,8 @@
       "yaygin": "100.000 - 240.000 km"
     },
     "fiyatAraligi": {
-      "min": 620000,
-      "max": 1230000
+      "min": 890000,
+      "max": 1200000
     },
     "motorSecenekleri": [
       {
@@ -10397,8 +10397,8 @@
       "yaygin": "100.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 2200000
+      "min": 520000,
+      "max": 710000
     },
     "motorSecenekleri": [
       {
@@ -10442,8 +10442,8 @@
       "yaygin": "100.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 570000,
-      "max": 1140000
+      "min": 710000,
+      "max": 960000
     },
     "motorSecenekleri": [
       {
@@ -10487,8 +10487,8 @@
       "yaygin": "100.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 560000,
-      "max": 1120000
+      "min": 670000,
+      "max": 910000
     },
     "motorSecenekleri": [
       {
@@ -10532,8 +10532,8 @@
       "yaygin": "120.000 - 250.000 km"
     },
     "fiyatAraligi": {
-      "min": 1200000,
-      "max": 2600000
+      "min": 1620000,
+      "max": 2180000
     },
     "motorSecenekleri": [
       {
@@ -10581,8 +10581,8 @@
       "yaygin": "100.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 640000,
-      "max": 1280000
+      "min": 880000,
+      "max": 1190000
     },
     "motorSecenekleri": [
       {
@@ -10626,8 +10626,8 @@
       "yaygin": "120.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 430000,
-      "max": 1300000
+      "min": 670000,
+      "max": 910000
     },
     "motorSecenekleri": [
       {
@@ -10667,8 +10667,8 @@
       "yaygin": "120.000 - 220.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 2850000
+      "min": 1830000,
+      "max": 2470000
     },
     "motorSecenekleri": [
       {
@@ -10714,8 +10714,8 @@
       "yaygin": "100.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 2060000,
-      "max": 6190000
+      "min": 3050000,
+      "max": 4130000
     },
     "motorSecenekleri": [
       {
@@ -10755,8 +10755,8 @@
       "yaygin": "60.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 1560000,
-      "max": 4680000
+      "min": 2140000,
+      "max": 3860000
     },
     "motorSecenekleri": [
       {
@@ -10798,8 +10798,8 @@
       "yaygin": "100.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 470000,
-      "max": 940000
+      "min": 530000,
+      "max": 710000
     },
     "motorSecenekleri": [
       {
@@ -10841,8 +10841,8 @@
       "yaygin": "30.000 - 100.000 km"
     },
     "fiyatAraligi": {
-      "min": 590000,
-      "max": 1760000
+      "min": 1000000,
+      "max": 1350000
     },
     "motorSecenekleri": [
       {
@@ -10886,8 +10886,8 @@
       "yaygin": "20.000 - 85.000 km"
     },
     "fiyatAraligi": {
-      "min": 590000,
-      "max": 1760000
+      "min": 1000000,
+      "max": 1350000
     },
     "motorSecenekleri": [
       {
@@ -10935,8 +10935,8 @@
       "yaygin": "20.000 - 85.000 km"
     },
     "fiyatAraligi": {
-      "min": 1430000,
-      "max": 4290000
+      "min": 2060000,
+      "max": 2790000
     },
     "motorSecenekleri": [
       {
@@ -10980,8 +10980,8 @@
       "yaygin": "20.000 - 85.000 km"
     },
     "fiyatAraligi": {
-      "min": 4200000,
-      "max": 7800000
+      "min": 5100000,
+      "max": 6900000
     },
     "motorSecenekleri": [
       {
@@ -11025,8 +11025,8 @@
       "yaygin": "20.000 - 80.000 km"
     },
     "fiyatAraligi": {
-      "min": 3200000,
-      "max": 5600000
+      "min": 3740000,
+      "max": 5060000
     },
     "motorSecenekleri": [
       {
@@ -11066,8 +11066,8 @@
       "yaygin": "20.000 - 75.000 km"
     },
     "fiyatAraligi": {
-      "min": 490000,
-      "max": 1470000
+      "min": 830000,
+      "max": 1130000
     },
     "motorSecenekleri": [
       {
@@ -11107,8 +11107,8 @@
       "yaygin": "40.000 - 110.000 km"
     },
     "fiyatAraligi": {
-      "min": 1350000,
-      "max": 2300000
+      "min": 1550000,
+      "max": 2100000
     },
     "motorSecenekleri": [
       {
@@ -11144,8 +11144,8 @@
       "yaygin": "40.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 1070000,
-      "max": 3220000
+      "min": 1580000,
+      "max": 2140000
     },
     "motorSecenekleri": [
       {
@@ -11181,8 +11181,8 @@
       "yaygin": "400.000 - 750.000 km"
     },
     "fiyatAraligi": {
-      "min": 1800000,
-      "max": 4200000
+      "min": 3020000,
+      "max": 4080000
     },
     "motorSecenekleri": [
       {
@@ -11228,8 +11228,8 @@
       "yaygin": "400.000 - 750.000 km"
     },
     "fiyatAraligi": {
-      "min": 1700000,
-      "max": 4000000
+      "min": 1340000,
+      "max": 1820000
     },
     "motorSecenekleri": [
       {
@@ -11269,8 +11269,8 @@
       "yaygin": "400.000 - 750.000 km"
     },
     "fiyatAraligi": {
-      "min": 1750000,
-      "max": 4100000
+      "min": 2490000,
+      "max": 3360000
     },
     "motorSecenekleri": [
       {
@@ -11310,8 +11310,8 @@
       "yaygin": "400.000 - 750.000 km"
     },
     "fiyatAraligi": {
-      "min": 1800000,
-      "max": 4300000
+      "min": 2730000,
+      "max": 3700000
     },
     "motorSecenekleri": [
       {
@@ -11351,8 +11351,8 @@
       "yaygin": "400.000 - 750.000 km"
     },
     "fiyatAraligi": {
-      "min": 1650000,
-      "max": 3900000
+      "min": 1910000,
+      "max": 2590000
     },
     "motorSecenekleri": [
       {
@@ -11392,8 +11392,8 @@
       "yaygin": "300.000 - 550.000 km"
     },
     "fiyatAraligi": {
-      "min": 1200000,
-      "max": 2800000
+      "min": 830000,
+      "max": 1130000
     },
     "motorSecenekleri": [
       {
@@ -11433,8 +11433,8 @@
       "yaygin": "250.000 - 480.000 km"
     },
     "fiyatAraligi": {
-      "min": 900000,
-      "max": 2100000
+      "min": 1280000,
+      "max": 1720000
     },
     "motorSecenekleri": [
       {
@@ -11478,8 +11478,8 @@
       "yaygin": "200.000 - 380.000 km"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 2200000
+      "min": 1380000,
+      "max": 1870000
     },
     "motorSecenekleri": [
       {
@@ -11519,8 +11519,8 @@
       "yaygin": "200.000 - 380.000 km"
     },
     "fiyatAraligi": {
-      "min": 950000,
-      "max": 2000000
+      "min": 1250000,
+      "max": 1700000
     },
     "motorSecenekleri": [
       {
@@ -11556,8 +11556,8 @@
       "yaygin": "5.000 - 10.000 saat"
     },
     "fiyatAraligi": {
-      "min": 900000,
-      "max": 1900000
+      "min": 1190000,
+      "max": 1610000
     },
     "motorSecenekleri": [
       {
@@ -11597,8 +11597,8 @@
       "yaygin": "6.000 - 14.000 saat"
     },
     "fiyatAraligi": {
-      "min": 550000,
-      "max": 1200000
+      "min": 740000,
+      "max": 1010000
     },
     "motorSecenekleri": [
       {
@@ -11642,8 +11642,8 @@
       "yaygin": "4.000 - 9.000 saat"
     },
     "fiyatAraligi": {
-      "min": 1100000,
-      "max": 2100000
+      "min": 1360000,
+      "max": 1840000
     },
     "motorSecenekleri": [
       {
@@ -11683,8 +11683,8 @@
       "yaygin": "4.000 - 10.000 saat"
     },
     "fiyatAraligi": {
-      "min": 1050000,
-      "max": 2400000
+      "min": 1470000,
+      "max": 1980000
     },
     "motorSecenekleri": [
       {
@@ -11724,8 +11724,8 @@
       "yaygin": "5.000 - 12.000 saat"
     },
     "fiyatAraligi": {
-      "min": 650000,
-      "max": 1350000
+      "min": 850000,
+      "max": 1150000
     },
     "motorSecenekleri": [
       {
@@ -11769,8 +11769,8 @@
       "yaygin": "3.000 - 8.000 saat"
     },
     "fiyatAraligi": {
-      "min": 1800000,
-      "max": 3400000
+      "min": 2210000,
+      "max": 2990000
     },
     "motorSecenekleri": [
       {
@@ -11810,8 +11810,8 @@
       "yaygin": "8.000 - 18.000 saat"
     },
     "fiyatAraligi": {
-      "min": 2400000,
-      "max": 5500000
+      "min": 3360000,
+      "max": 4540000
     },
     "motorSecenekleri": [
       {
@@ -11851,8 +11851,8 @@
       "yaygin": "8.000 - 18.000 saat"
     },
     "fiyatAraligi": {
-      "min": 2200000,
-      "max": 5000000
+      "min": 3060000,
+      "max": 4140000
     },
     "motorSecenekleri": [
       {
@@ -11892,8 +11892,8 @@
       "yaygin": "7.000 - 16.000 saat"
     },
     "fiyatAraligi": {
-      "min": 1500000,
-      "max": 3200000
+      "min": 2000000,
+      "max": 2700000
     },
     "motorSecenekleri": [
       {
@@ -11933,8 +11933,8 @@
       "yaygin": "7.000 - 16.000 saat"
     },
     "fiyatAraligi": {
-      "min": 2100000,
-      "max": 4600000
+      "min": 2850000,
+      "max": 3850000
     },
     "motorSecenekleri": [
       {
@@ -11974,8 +11974,8 @@
       "yaygin": "7.000 - 16.000 saat"
     },
     "fiyatAraligi": {
-      "min": 2500000,
-      "max": 5800000
+      "min": 3530000,
+      "max": 4770000
     },
     "motorSecenekleri": [
       {
@@ -12015,8 +12015,8 @@
       "yaygin": "5.000 - 15.000 km"
     },
     "fiyatAraligi": {
-      "min": 380000,
-      "max": 750000
+      "min": 480000,
+      "max": 650000
     },
     "motorSecenekleri": [
       {
@@ -12056,8 +12056,8 @@
       "yaygin": "5.000 - 14.000 km"
     },
     "fiyatAraligi": {
-      "min": 550000,
-      "max": 1300000
+      "min": 790000,
+      "max": 1060000
     },
     "motorSecenekleri": [
       {
@@ -12097,8 +12097,8 @@
       "yaygin": "5.000 - 14.000 km"
     },
     "fiyatAraligi": {
-      "min": 600000,
-      "max": 1450000
+      "min": 870000,
+      "max": 1180000
     },
     "motorSecenekleri": [
       {
@@ -12138,8 +12138,8 @@
       "yaygin": "5.000 - 15.000 km"
     },
     "fiyatAraligi": {
-      "min": 420000,
-      "max": 900000
+      "min": 560000,
+      "max": 760000
     },
     "motorSecenekleri": [
       {
@@ -12179,8 +12179,8 @@
       "yaygin": "5.000 - 15.000 km"
     },
     "fiyatAraligi": {
-      "min": 400000,
-      "max": 850000
+      "min": 530000,
+      "max": 720000
     },
     "motorSecenekleri": [
       {
@@ -12220,8 +12220,8 @@
       "yaygin": "80.000 - 180.000 km"
     },
     "fiyatAraligi": {
-      "min": 400000,
-      "max": 800000
+      "min": 480000,
+      "max": 650000
     },
     "motorSecenekleri": [
       {
@@ -12265,8 +12265,8 @@
       "yaygin": "50.000 - 130.000 km"
     },
     "fiyatAraligi": {
-      "min": 330000,
-      "max": 650000
+      "min": 360000,
+      "max": 490000
     },
     "motorSecenekleri": [
       {
@@ -12308,8 +12308,8 @@
       "yaygin": "50.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 270000,
-      "max": 540000
+      "min": 320000,
+      "max": 440000
     },
     "motorSecenekleri": [
       {
@@ -12349,8 +12349,8 @@
       "yaygin": "40.000 - 120.000 km"
     },
     "fiyatAraligi": {
-      "min": 1350000,
-      "max": 2400000
+      "min": 1590000,
+      "max": 2160000
     },
     "motorSecenekleri": [
       {
@@ -12390,8 +12390,8 @@
       "yaygin": "60.000 - 140.000 km"
     },
     "fiyatAraligi": {
-      "min": 160000,
-      "max": 320000
+      "min": 200000,
+      "max": 260000
     },
     "motorSecenekleri": [
       {
@@ -12427,8 +12427,8 @@
       "yaygin": "100.000 - 200.000 km"
     },
     "fiyatAraligi": {
-      "min": 220000,
-      "max": 430000
+      "min": 230000,
+      "max": 310000
     },
     "motorSecenekleri": [
       {
