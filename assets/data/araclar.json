@@ -12453,5 +12453,1596 @@
       }
     ],
     "tramerOrani": 29
+  },
+  {
+    "id": "renault-duster",
+    "marka": "Renault",
+    "model": "Duster",
+    "govde": "Arazi SUV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": {
+      "min": 40000,
+      "max": 160000,
+      "yaygin": "60.000 - 130.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1590000,
+      "max": 2150000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.5 dCi",
+        "guc": "115 HP",
+        "sanziman": "Manuel",
+        "paket": "Joy / Icon"
+      },
+      {
+        "motor": "1.3 TCe",
+        "guc": "130 HP",
+        "sanziman": "Manuel",
+        "paket": "Icon"
+      },
+      {
+        "motor": "1.3 TCe",
+        "guc": "150 HP",
+        "sanziman": "EDC Otomatik",
+        "paket": "Icon / Prestige 4x4"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Dizel motorlarda EGR/DPF tıkanması şehir içi kullanımda görülebiliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "İç mekan malzeme kalitesi segment geneline göre daha sade"
+      },
+      {
+        "seviye": "good",
+        "metin": "Basit mekanik yapısı sayesinde bakım maliyeti düşük"
+      }
+    ],
+    "tramerOrani": 30
+  },
+  {
+    "id": "renault-zoe",
+    "marka": "Renault",
+    "model": "Zoe",
+    "govde": "Hatchback",
+    "yakit": "Elektrik",
+    "segment": "Ekonomi",
+    "yilAraligi": "2013 - günümüz",
+    "kmBandi": {
+      "min": 20000,
+      "max": 100000,
+      "yaygin": "30.000 - 70.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 550000,
+      "max": 750000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor",
+        "guc": "92 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Life / Zen / Intens"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Yüksek kilometrede batarya kapasitesinde kademeli azalma görülebiliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Bazı yıl modellerinde şarj ünitesi (OBC) arızası şikayetleri var"
+      },
+      {
+        "seviye": "good",
+        "metin": "Az hareketli parça sayesinde mekanik bakım maliyeti düşük"
+      }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "renault-grand-scenic",
+    "marka": "Renault",
+    "model": "Grand Scenic",
+    "govde": "MPV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta Segment",
+    "yilAraligi": "2009 - 2022",
+    "kmBandi": {
+      "min": 60000,
+      "max": 220000,
+      "yaygin": "100.000 - 180.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 570000,
+      "max": 770000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.5 dCi",
+        "guc": "110 HP",
+        "sanziman": "Manuel",
+        "paket": "Joy / Icon"
+      },
+      {
+        "motor": "1.6 dCi",
+        "guc": "130 HP",
+        "sanziman": "Otomatik",
+        "paket": "Icon"
+      },
+      {
+        "motor": "1.3 TCe",
+        "guc": "140 HP",
+        "sanziman": "Otomatik",
+        "paket": "Icon"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Çift kütle volanı yüksek kilometrede aşınabiliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Elektronik el freni aktüatöründe zamanla arıza şikayeti var"
+      },
+      {
+        "seviye": "good",
+        "metin": "Geniş iç hacim ve esnek koltuk düzeni ailelerde tercih sebebi"
+      }
+    ],
+    "tramerOrani": 34
+  },
+  {
+    "id": "renault-arkana",
+    "marka": "Renault",
+    "model": "Arkana",
+    "govde": "SUV",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 80000,
+      "yaygin": "20.000 - 50.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1100000,
+      "max": 1400000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.3 TCe",
+        "guc": "140 HP",
+        "sanziman": "Manuel / EDC Otomatik",
+        "paket": "Techno"
+      },
+      {
+        "motor": "E-Tech Hybrid",
+        "guc": "145 HP",
+        "sanziman": "Otomatik",
+        "paket": "Techno / Esprit Alpine"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Yeni nesil platform, henüz yaygın kronik arıza bildirimi yok"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Hibrit versiyonda çoklu motor yönetim yazılımı bazı örneklerde geçiş sertliği yapabiliyor"
+      }
+    ],
+    "tramerOrani": 14
+  },
+  {
+    "id": "volkswagen-passat-cc",
+    "marka": "Volkswagen",
+    "model": "Passat CC",
+    "govde": "Coupe",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2008 - 2017",
+    "kmBandi": {
+      "min": 80000,
+      "max": 220000,
+      "yaygin": "120.000 - 190.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 900000,
+      "max": 1400000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.0 TDI",
+        "guc": "140 HP",
+        "sanziman": "DSG Otomatik",
+        "paket": "Trend"
+      },
+      {
+        "motor": "2.0 TSI",
+        "guc": "210 HP",
+        "sanziman": "DSG Otomatik",
+        "paket": "Sport"
+      },
+      {
+        "motor": "3.6 VR6 4motion",
+        "guc": "300 HP",
+        "sanziman": "DSG Otomatik",
+        "paket": "Exclusive"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "DSG mekatronik ünitesinde yüksek km'de arıza şikayetleri"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Timing zinciri gerdiricisinde erken dönem üretimlerde aşınma"
+      },
+      {
+        "seviye": "good",
+        "metin": "Kasa sertliği ve yol tutuşu segment içinde beğeniliyor"
+      }
+    ],
+    "tramerOrani": 36
+  },
+  {
+    "id": "volkswagen-up",
+    "marka": "Volkswagen",
+    "model": "up!",
+    "govde": "Hatchback",
+    "yakit": "Benzin",
+    "segment": "Şehir Aracı",
+    "yilAraligi": "2011 - 2023",
+    "kmBandi": {
+      "min": 20000,
+      "max": 140000,
+      "yaygin": "40.000 - 100.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 500000,
+      "max": 700000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.0 MPI",
+        "guc": "60 HP",
+        "sanziman": "Manuel",
+        "paket": "take up!"
+      },
+      {
+        "motor": "1.0 TSI",
+        "guc": "90 HP",
+        "sanziman": "Manuel / Otomatik",
+        "paket": "move up! / high up!"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Basit ve dayanıklı atmosferik motor, düşük arıza geçmişi"
+      },
+      {
+        "seviye": "warn",
+        "metin": "TSI versiyonunda zincir gerdiricisi bazı üretim yıllarında sesli çalışabiliyor"
+      }
+    ],
+    "tramerOrani": 22
+  },
+  {
+    "id": "volkswagen-id-3",
+    "marka": "Volkswagen",
+    "model": "ID.3",
+    "govde": "Hatchback",
+    "yakit": "Elektrik",
+    "segment": "Orta Segment",
+    "yilAraligi": "2020 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 60.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1300000,
+      "max": 1700000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor 58 kWh",
+        "guc": "150 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Life / Family"
+      },
+      {
+        "motor": "Elektrikli Motor 77 kWh",
+        "guc": "204 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Max"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "İlk üretim yıllarında multimedya/yazılım kaynaklı hatalar bildirildi"
+      },
+      {
+        "seviye": "warn",
+        "metin": "12V yardımcı akü zayıflığı bazı örneklerde şikayet konusu"
+      },
+      {
+        "seviye": "good",
+        "metin": "Ana batarya için uzun süreli garanti kapsamı sunuluyor"
+      }
+    ],
+    "tramerOrani": 15
+  },
+  {
+    "id": "volkswagen-id-4",
+    "marka": "Volkswagen",
+    "model": "ID.4",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2020 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 60.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1650000,
+      "max": 2230000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor 52 kWh",
+        "guc": "170 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Life"
+      },
+      {
+        "motor": "Elektrikli Motor 77 kWh",
+        "guc": "204 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Max"
+      },
+      {
+        "motor": "Elektrikli Motor 77 kWh 4motion",
+        "guc": "299 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "GTX"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Yazılım kaynaklı ekran/multimedya donmaları ilk model yıllarında görüldü"
+      },
+      {
+        "seviye": "good",
+        "metin": "Batarya kapasite kaybı raporları şimdilik sınırlı seviyede"
+      }
+    ],
+    "tramerOrani": 13
+  },
+  {
+    "id": "fiat-punto",
+    "marka": "Fiat",
+    "model": "Punto",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "1993 - 2018",
+    "kmBandi": {
+      "min": 80000,
+      "max": 260000,
+      "yaygin": "120.000 - 220.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 410000,
+      "max": 550000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.2 8V",
+        "guc": "65 HP",
+        "sanziman": "Manuel",
+        "paket": "Active"
+      },
+      {
+        "motor": "1.3 Multijet",
+        "guc": "75 HP",
+        "sanziman": "Manuel",
+        "paket": "Easy"
+      },
+      {
+        "motor": "1.4 16V",
+        "guc": "95 HP",
+        "sanziman": "Manuel",
+        "paket": "Sporting"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Erken dönem Multijet enjektörlerinde arıza şikayeti"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Kaporta alt bölgelerde paslanma eski yıl modellerinde görülüyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "Yaygın ve ucuz yedek parça bulunabilirliği"
+      }
+    ],
+    "tramerOrani": 42
+  },
+  {
+    "id": "fiat-500l",
+    "marka": "Fiat",
+    "model": "500L",
+    "govde": "MPV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2012 - 2020",
+    "kmBandi": {
+      "min": 60000,
+      "max": 200000,
+      "yaygin": "90.000 - 160.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 550000,
+      "max": 800000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.3 Multijet",
+        "guc": "95 HP",
+        "sanziman": "Manuel",
+        "paket": "Pop Star"
+      },
+      {
+        "motor": "1.4 16V",
+        "guc": "95 HP",
+        "sanziman": "Manuel",
+        "paket": "Easy"
+      },
+      {
+        "motor": "0.9 TwinAir",
+        "guc": "105 HP",
+        "sanziman": "Manuel",
+        "paket": "Lounge"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "TwinAir motorlarda turbo ve zincir gerdiricisi şikayetleri"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Çift kütle volanı dizel versiyonlarda aşınabiliyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "Geniş iç hacim ve yüksek oturma pozisyonu ailelerce tercih ediliyor"
+      }
+    ],
+    "tramerOrani": 35
+  },
+  {
+    "id": "mercedes-benz-v-class",
+    "marka": "Mercedes-Benz",
+    "model": "V-Class",
+    "govde": "MPV",
+    "yakit": "Dizel",
+    "segment": "Lüks",
+    "yilAraligi": "2014 - günümüz",
+    "kmBandi": {
+      "min": 40000,
+      "max": 200000,
+      "yaygin": "70.000 - 150.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 3500000,
+      "max": 6000000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "220d",
+        "guc": "163 HP",
+        "sanziman": "Otomatik",
+        "paket": "Trend"
+      },
+      {
+        "motor": "250d",
+        "guc": "190 HP",
+        "sanziman": "Otomatik",
+        "paket": "Avantgarde"
+      },
+      {
+        "motor": "300d",
+        "guc": "239 HP",
+        "sanziman": "Otomatik",
+        "paket": "Avantgarde Premium"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Hava süspansiyonlu versiyonlarda yüksek km'de körük arızası"
+      },
+      {
+        "seviye": "good",
+        "metin": "Dizel motor ailesi ticari Sprinter ile paylaşıldığı için dayanıklı kabul ediliyor"
+      }
+    ],
+    "tramerOrani": 24
+  },
+  {
+    "id": "mercedes-benz-eqa",
+    "marka": "Mercedes-Benz",
+    "model": "EQA",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Lüks",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 80000,
+      "yaygin": "20.000 - 50.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2290000,
+      "max": 4120000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "EQA 250",
+        "guc": "190 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Progressive / AMG Line"
+      },
+      {
+        "motor": "EQA 300 4MATIC",
+        "guc": "228 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "AMG Line"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Kompakt SUV platformu üzerine kurulu, mekanik olarak basit"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Soğuk havada menzil kaybı diğer EV'lere göre biraz daha belirgin bildiriliyor"
+      }
+    ],
+    "tramerOrani": 12
+  },
+  {
+    "id": "mercedes-benz-eqb",
+    "marka": "Mercedes-Benz",
+    "model": "EQB",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Lüks",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 80000,
+      "yaygin": "20.000 - 50.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2430000,
+      "max": 4370000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "EQB 250",
+        "guc": "190 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Progressive"
+      },
+      {
+        "motor": "EQB 350 4MATIC",
+        "guc": "292 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "AMG Line"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "7 koltuk opsiyonuyla aile kullanımı için tercih ediliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Yazılım güncellemeleri sonrası bazı kullanıcı ara yüzü hataları bildirildi"
+      }
+    ],
+    "tramerOrani": 12
+  },
+  {
+    "id": "toyota-supra",
+    "marka": "Toyota",
+    "model": "Supra",
+    "govde": "Coupe",
+    "yakit": "Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2019 - günümüz",
+    "kmBandi": {
+      "min": 5000,
+      "max": 60000,
+      "yaygin": "10.000 - 35.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 3500000,
+      "max": 5500000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.0 Turbo",
+        "guc": "258 HP",
+        "sanziman": "Otomatik",
+        "paket": "Pure"
+      },
+      {
+        "motor": "3.0 Turbo",
+        "guc": "340 HP",
+        "sanziman": "Otomatik",
+        "paket": "Legend"
+      },
+      {
+        "motor": "3.0 Turbo",
+        "guc": "387 HP",
+        "sanziman": "Otomatik",
+        "paket": "GR Final Edition"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "BMW ile ortak geliştirilen mekanik altyapı güvenilir kabul ediliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Sert sürüş kullanımı geçmişli örneklerde lastik/fren aşınması hızlı olabiliyor"
+      }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "toyota-highlander",
+    "marka": "Toyota",
+    "model": "Highlander",
+    "govde": "SUV",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Üst Segment",
+    "yilAraligi": "2020 - günümüz",
+    "kmBandi": {
+      "min": 15000,
+      "max": 100000,
+      "yaygin": "30.000 - 70.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 3000000,
+      "max": 4500000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.5 Hybrid",
+        "guc": "248 HP",
+        "sanziman": "Otomatik",
+        "paket": "Elegant / Adventure"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Toyota hibrit sistemi uzun ömürlü ve düşük arıza geçmişine sahip"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Türkiye'de resmi satış hacmi düşük, yedek parça/servis bazı bölgelerde sınırlı"
+      }
+    ],
+    "tramerOrani": 16
+  },
+  {
+    "id": "toyota-bz4x",
+    "marka": "Toyota",
+    "model": "bZ4X",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Üst Segment",
+    "yilAraligi": "2022 - günümüz",
+    "kmBandi": {
+      "min": 5000,
+      "max": 50000,
+      "yaygin": "10.000 - 30.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2200000,
+      "max": 3000000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor",
+        "guc": "204 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Premiere / Executive"
+      },
+      {
+        "motor": "Elektrikli Motor AWD",
+        "guc": "218 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Executive AWD"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "İlk üretim serisinde tekerlek cıvatası gevşemesi nedeniyle geri çağırma yaşandı"
+      },
+      {
+        "seviye": "good",
+        "metin": "Toyota'nın uzun batarya garantisi güven veriyor"
+      }
+    ],
+    "tramerOrani": 10
+  },
+  {
+    "id": "peugeot-407",
+    "marka": "Peugeot",
+    "model": "407",
+    "govde": "Sedan / SW",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2004 - 2010",
+    "kmBandi": {
+      "min": 120000,
+      "max": 280000,
+      "yaygin": "160.000 - 240.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 360000,
+      "max": 490000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.6 HDi",
+        "guc": "110 HP",
+        "sanziman": "Manuel",
+        "paket": "X-Line"
+      },
+      {
+        "motor": "2.0 HDi",
+        "guc": "136 HP",
+        "sanziman": "Otomatik",
+        "paket": "Sport"
+      },
+      {
+        "motor": "2.2 16V",
+        "guc": "158 HP",
+        "sanziman": "Otomatik",
+        "paket": "Executive"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Enjeksiyon pompası ve turbo aksamında yüksek km'de arıza şikayeti"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Elektronik el freni ve multimedya ünitesinde yaşlanmaya bağlı arızalar"
+      },
+      {
+        "seviye": "good",
+        "metin": "Yol konforu ve kasa sağlamlığı segment içinde beğeniliyor"
+      }
+    ],
+    "tramerOrani": 44
+  },
+  {
+    "id": "peugeot-e-208",
+    "marka": "Peugeot",
+    "model": "e-208",
+    "govde": "Hatchback",
+    "yakit": "Elektrik",
+    "segment": "Ekonomi",
+    "yilAraligi": "2020 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 55.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1230000,
+      "max": 1670000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor",
+        "guc": "136 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Active / Allure / GT"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Aynı platformu paylaştığı benzinli 208 kadar mekanik olarak sade"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Kış aylarında ısıtma sisteminin menzili belirgin şekilde düşürdüğü bildiriliyor"
+      }
+    ],
+    "tramerOrani": 16
+  },
+  {
+    "id": "peugeot-e-2008",
+    "marka": "Peugeot",
+    "model": "e-2008",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Orta Segment",
+    "yilAraligi": "2020 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 55.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1380000,
+      "max": 1860000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor",
+        "guc": "136 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Allure / GT"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "e-208 ile aynı batarya/motor grubu, bilinen ciddi arıza yok"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Şarj port kapağı mekanizmasında zamanla gevşeme şikayeti var"
+      }
+    ],
+    "tramerOrani": 15
+  },
+  {
+    "id": "bmw-6-serisi-gran-turismo",
+    "marka": "BMW",
+    "model": "6 Serisi Gran Turismo",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2017 - günümüz",
+    "kmBandi": {
+      "min": 30000,
+      "max": 160000,
+      "yaygin": "60.000 - 120.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2620000,
+      "max": 4720000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "620d",
+        "guc": "190 HP",
+        "sanziman": "Otomatik",
+        "paket": "xLine"
+      },
+      {
+        "motor": "630i",
+        "guc": "258 HP",
+        "sanziman": "Otomatik",
+        "paket": "M Sport"
+      },
+      {
+        "motor": "640i",
+        "guc": "340 HP",
+        "sanziman": "Otomatik",
+        "paket": "M Sport"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Hava süspansiyon körüklerinde yüksek km'de sızdırma şikayeti"
+      },
+      {
+        "seviye": "good",
+        "metin": "Geniş iç hacim ve bagaj kapasitesi segment içinde öne çıkıyor"
+      }
+    ],
+    "tramerOrani": 26
+  },
+  {
+    "id": "bmw-8-serisi",
+    "marka": "BMW",
+    "model": "8 Serisi",
+    "govde": "Coupe",
+    "yakit": "Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2018 - günümüz",
+    "kmBandi": {
+      "min": 15000,
+      "max": 100000,
+      "yaygin": "30.000 - 70.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 8630000,
+      "max": 15530000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "840i",
+        "guc": "340 HP",
+        "sanziman": "Otomatik",
+        "paket": "M Sport"
+      },
+      {
+        "motor": "M850i",
+        "guc": "530 HP",
+        "sanziman": "Otomatik",
+        "paket": "M Sport Pro"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Yeni nesil BMW turbo motor ailesi genel olarak güvenilir kabul ediliyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Yüksek performans lastik/fren aşınması masrafları göz önünde bulundurulmalı"
+      }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "bmw-i4",
+    "marka": "BMW",
+    "model": "i4",
+    "govde": "Sedan",
+    "yakit": "Elektrik",
+    "segment": "Lüks",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 80000,
+      "yaygin": "20.000 - 50.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2800000,
+      "max": 4200000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "i4 eDrive40",
+        "guc": "340 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "M Sport"
+      },
+      {
+        "motor": "i4 M50",
+        "guc": "544 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "M Sport Pro"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "BMW'nin 5. nesil elektrikli tahrik teknolojisi düşük arıza bildirimiyle biliniyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "iDrive yazılım güncellemeleri sonrası bazı kullanıcı arayüzü hataları raporlandı"
+      }
+    ],
+    "tramerOrani": 14
+  },
+  {
+    "id": "bmw-ix",
+    "marka": "BMW",
+    "model": "iX",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Lüks",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 80000,
+      "yaygin": "20.000 - 50.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 3200000,
+      "max": 5750000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "iX xDrive40",
+        "guc": "326 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "xLine"
+      },
+      {
+        "motor": "iX xDrive50",
+        "guc": "523 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "M Sport"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Karbon/alüminyum karma gövde yapısı korozyona karşı avantaj sağlıyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Bazı erken üretim araçlarda yazılım kaynaklı ekran donmaları bildirildi"
+      }
+    ],
+    "tramerOrani": 11
+  },
+  {
+    "id": "audi-tt",
+    "marka": "Audi",
+    "model": "TT",
+    "govde": "Coupe",
+    "yakit": "Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "1998 - 2023",
+    "kmBandi": {
+      "min": 30000,
+      "max": 180000,
+      "yaygin": "60.000 - 130.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 960000,
+      "max": 1720000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.0 TFSI",
+        "guc": "230 HP",
+        "sanziman": "Otomatik",
+        "paket": "Design"
+      },
+      {
+        "motor": "TTS 2.0 TFSI",
+        "guc": "310 HP",
+        "sanziman": "Otomatik",
+        "paket": "S Line"
+      },
+      {
+        "motor": "TT RS 2.5 TFSI",
+        "guc": "400 HP",
+        "sanziman": "Otomatik",
+        "paket": "RS"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Timing zinciri gerdiricisi erken üretim 2.0 TFSI motorlarda dikkat gerektiriyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "Quattro dört çeker sistemi güvenilirliğiyle biliniyor"
+      }
+    ],
+    "tramerOrani": 22
+  },
+  {
+    "id": "audi-e-tron",
+    "marka": "Audi",
+    "model": "e-tron",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Lüks",
+    "yilAraligi": "2019 - günümüz",
+    "kmBandi": {
+      "min": 15000,
+      "max": 100000,
+      "yaygin": "30.000 - 70.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 2910000,
+      "max": 5230000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "e-tron 50",
+        "guc": "313 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Advanced"
+      },
+      {
+        "motor": "e-tron 55",
+        "guc": "408 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "S Line"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "İlk nesil elektrikli Audi olarak yoğun test sürecinden geçti"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Hava süspansiyon ve klima kompresöründe bazı örneklerde arıza şikayeti var"
+      }
+    ],
+    "tramerOrani": 13
+  },
+  {
+    "id": "audi-rs6",
+    "marka": "Audi",
+    "model": "RS6",
+    "govde": "Sedan / SW",
+    "yakit": "Benzin",
+    "segment": "Lüks",
+    "yilAraligi": "2002 - günümüz",
+    "kmBandi": {
+      "min": 15000,
+      "max": 120000,
+      "yaygin": "30.000 - 80.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 6000000,
+      "max": 9000000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "RS6 Avant 4.0 TFSI",
+        "guc": "600 HP",
+        "sanziman": "Otomatik",
+        "paket": "RS Design"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Performans lastik ve fren sarf malzemesi maliyeti yüksek"
+      },
+      {
+        "seviye": "good",
+        "metin": "Quattro dört çeker sistemi her hava koşulunda güvenli sürüş sağlıyor"
+      }
+    ],
+    "tramerOrani": 24
+  },
+  {
+    "id": "hyundai-i40",
+    "marka": "Hyundai",
+    "model": "i40",
+    "govde": "Sedan / SW",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2011 - 2019",
+    "kmBandi": {
+      "min": 90000,
+      "max": 240000,
+      "yaygin": "130.000 - 200.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 740000,
+      "max": 1010000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.7 CRDi",
+        "guc": "136 HP",
+        "sanziman": "Manuel / Otomatik",
+        "paket": "Elite"
+      },
+      {
+        "motor": "2.0 GDi",
+        "guc": "178 HP",
+        "sanziman": "Otomatik",
+        "paket": "Style"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Çift kütle volanı dizel motorlarda yüksek km'de aşınabiliyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "Geniş bagaj hacmi (SW versiyonu) aile kullanımında avantaj sağlıyor"
+      }
+    ],
+    "tramerOrani": 32
+  },
+  {
+    "id": "hyundai-ioniq-5",
+    "marka": "Hyundai",
+    "model": "Ioniq 5",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Üst Segment",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 55.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1600000,
+      "max": 2880000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor 58 kWh",
+        "guc": "170 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Comfort"
+      },
+      {
+        "motor": "Elektrikli Motor 77.4 kWh",
+        "guc": "229 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Elite / Lounge"
+      },
+      {
+        "motor": "Elektrikli Motor AWD",
+        "guc": "325 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "N Line AWD"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "800V mimarisi sayesinde hızlı şarj performansı yüksek"
+      },
+      {
+        "seviye": "warn",
+        "metin": "12V yardımcı akü boşalma şikayetleri bazı kullanıcılarda bildirildi"
+      }
+    ],
+    "tramerOrani": 12
+  },
+  {
+    "id": "hyundai-getz",
+    "marka": "Hyundai",
+    "model": "Getz",
+    "govde": "Hatchback",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2002 - 2011",
+    "kmBandi": {
+      "min": 100000,
+      "max": 280000,
+      "yaygin": "150.000 - 230.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 320000,
+      "max": 430000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.1",
+        "guc": "63 HP",
+        "sanziman": "Manuel",
+        "paket": "Start"
+      },
+      {
+        "motor": "1.5 CRDi",
+        "guc": "110 HP",
+        "sanziman": "Manuel",
+        "paket": "Team"
+      },
+      {
+        "motor": "1.6",
+        "guc": "105 HP",
+        "sanziman": "Otomatik",
+        "paket": "GLS"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Basit ve dayanıklı mekanik yapı, düşük bakım maliyeti"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Eski km'li örneklerde süspansiyon burçlarında aşınma yaygın"
+      }
+    ],
+    "tramerOrani": 40
+  },
+  {
+    "id": "ford-mustang",
+    "marka": "Ford",
+    "model": "Mustang",
+    "govde": "Coupe",
+    "yakit": "Benzin",
+    "segment": "Üst Segment",
+    "yilAraligi": "2015 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 55.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 3650000,
+      "max": 6580000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.3 EcoBoost",
+        "guc": "290 HP",
+        "sanziman": "Otomatik",
+        "paket": "GT Premium"
+      },
+      {
+        "motor": "5.0 V8 GT",
+        "guc": "450 HP",
+        "sanziman": "Otomatik",
+        "paket": "GT Premium / Mach 1"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "V8 versiyonlarda yüksek yakıt/lastik tüketimi maliyeti göz önünde bulundurulmalı"
+      },
+      {
+        "seviye": "good",
+        "metin": "Basit ve dayanıklı arka çeker mekanik mimari uzun yıllardır kanıtlanmış"
+      }
+    ],
+    "tramerOrani": 28
+  },
+  {
+    "id": "ford-s-max",
+    "marka": "Ford",
+    "model": "S-Max",
+    "govde": "MPV",
+    "yakit": "Dizel / Benzin",
+    "segment": "Orta-Üst Segment",
+    "yilAraligi": "2006 - 2023",
+    "kmBandi": {
+      "min": 80000,
+      "max": 240000,
+      "yaygin": "120.000 - 190.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 570000,
+      "max": 780000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "2.0 TDCi",
+        "guc": "150 HP",
+        "sanziman": "Otomatik",
+        "paket": "Titanium"
+      },
+      {
+        "motor": "2.0 EcoBoost",
+        "guc": "203 HP",
+        "sanziman": "Otomatik",
+        "paket": "Titanium Sport"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Çift kütle volanı ve DPF filtresi yüksek km'de dikkat gerektiriyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "7 koltuk opsiyonu ve geniş iç hacim aile kullanımında tercih sebebi"
+      }
+    ],
+    "tramerOrani": 33
+  },
+  {
+    "id": "kia-niro",
+    "marka": "Kia",
+    "model": "Niro",
+    "govde": "SUV",
+    "yakit": "Benzin / Hybrid",
+    "segment": "Orta Segment",
+    "yilAraligi": "2016 - günümüz",
+    "kmBandi": {
+      "min": 20000,
+      "max": 130000,
+      "yaygin": "40.000 - 90.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1340000,
+      "max": 1820000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.6 GDi Hybrid",
+        "guc": "141 HP",
+        "sanziman": "Otomatik",
+        "paket": "Concept"
+      },
+      {
+        "motor": "1.6 GDi Plug-in Hybrid",
+        "guc": "141 HP",
+        "sanziman": "Otomatik",
+        "paket": "Concept Plus"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Toyota benzeri hibrit sistem düşük arıza geçmişiyle biliniyor"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Plug-in versiyonda şarj kablosu/soket arızaları nadiren bildiriliyor"
+      }
+    ],
+    "tramerOrani": 18
+  },
+  {
+    "id": "kia-ev6",
+    "marka": "Kia",
+    "model": "EV6",
+    "govde": "SUV",
+    "yakit": "Elektrik",
+    "segment": "Üst Segment",
+    "yilAraligi": "2021 - günümüz",
+    "kmBandi": {
+      "min": 10000,
+      "max": 90000,
+      "yaygin": "20.000 - 55.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 1700000,
+      "max": 3050000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Standard 58 kWh",
+        "guc": "170 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Motion"
+      },
+      {
+        "motor": "Long Range 77.4 kWh",
+        "guc": "229 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Motion / GT-Line"
+      },
+      {
+        "motor": "GT",
+        "guc": "585 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "GT"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Ioniq 5 ile aynı 800V mimari, hızlı şarj konusunda güçlü"
+      },
+      {
+        "seviye": "warn",
+        "metin": "12V yardımcı akü ile ilgili nadir şikayetler bildirildi"
+      }
+    ],
+    "tramerOrani": 12
+  },
+  {
+    "id": "nissan-leaf",
+    "marka": "Nissan",
+    "model": "Leaf",
+    "govde": "Hatchback",
+    "yakit": "Elektrik",
+    "segment": "Ekonomi",
+    "yilAraligi": "2010 - günümüz",
+    "kmBandi": {
+      "min": 20000,
+      "max": 140000,
+      "yaygin": "40.000 - 100.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 700000,
+      "max": 1000000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "Elektrikli Motor 40 kWh",
+        "guc": "150 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Acenta"
+      },
+      {
+        "motor": "Elektrikli Motor 62 kWh (e+)",
+        "guc": "217 HP",
+        "sanziman": "Tek Vites Otomatik",
+        "paket": "Tekna"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "warn",
+        "metin": "Pasif batarya soğutması eski nesilde sıcak iklimde hızlı şarjı sınırlayabiliyor"
+      },
+      {
+        "seviye": "good",
+        "metin": "Basit mekanik yapı sayesinde bakım maliyeti çok düşük"
+      }
+    ],
+    "tramerOrani": 20
+  },
+  {
+    "id": "nissan-almera",
+    "marka": "Nissan",
+    "model": "Almera",
+    "govde": "Sedan",
+    "yakit": "Dizel / Benzin",
+    "segment": "Ekonomi",
+    "yilAraligi": "2000 - 2006",
+    "kmBandi": {
+      "min": 120000,
+      "max": 280000,
+      "yaygin": "160.000 - 240.000 km"
+    },
+    "fiyatAraligi": {
+      "min": 270000,
+      "max": 370000
+    },
+    "motorSecenekleri": [
+      {
+        "motor": "1.5 dCi",
+        "guc": "82 HP",
+        "sanziman": "Manuel",
+        "paket": "Comfort"
+      },
+      {
+        "motor": "1.8",
+        "guc": "116 HP",
+        "sanziman": "Manuel / Otomatik",
+        "paket": "Elegance"
+      }
+    ],
+    "kronikNoktalar": [
+      {
+        "seviye": "good",
+        "metin": "Dayanıklı ve bakımı ucuz mekanik yapı"
+      },
+      {
+        "seviye": "warn",
+        "metin": "Eski km'li örneklerde elektrik aksamında (cam motoru vb.) arıza şikayeti var"
+      }
+    ],
+    "tramerOrani": 38
   }
 ]
