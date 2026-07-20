@@ -12,6 +12,8 @@
   var CATEGORIES = [
     { id: "otomobil", label: "Otomobil" },
     { id: "arazi-suv-pickup", label: "Arazi, SUV & Pickup" },
+    { id: "elektrikli", label: "Elektrikli Araçlar" },
+    { id: "motosiklet", label: "Motosiklet" },
     { id: "minivan-panelvan", label: "Minivan & Panelvan" },
     { id: "ticari", label: "Ticari Araçlar" }
   ];
@@ -32,6 +34,8 @@
   };
 
   function categoryOf(car) {
+    if (/Elektrik/i.test(car.yakit) && car.yakit.indexOf("/") === -1) return "elektrikli";
+    if (/Motosiklet/i.test(car.govde)) return "motosiklet";
     return GOVDE_MAP[car.govde] || "otomobil";
   }
 
