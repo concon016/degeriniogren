@@ -72,60 +72,17 @@
 <section class="section" style="padding-bottom:24px;">
   <div class="section-head center reveal">
     <p class="eyebrow">280+ Model</p>
-    <h2>Bütçene uygun aracı bul</h2>
-    <p>Filtreleri kullan, sonuçlar anında güncellensin.</p>
+    <h2>Aracını adım adım bul</h2>
+    <p>Sahibinden'deki gibi: önce kategori, sonra marka, sonra model seç.</p>
   </div>
 
-  <form class="filter-panel reveal" id="filterForm">
-    <div class="field">
-      <label for="fButce">Bütçe</label>
-      <select id="fButce">
-        <option value="">Tümü</option>
-        <option value="0-500000">500.000 ₺'ye kadar</option>
-        <option value="500000-800000">500.000 - 800.000 ₺</option>
-        <option value="800000-1200000">800.000 - 1.200.000 ₺</option>
-        <option value="1200000-1800000">1.200.000 - 1.800.000 ₺</option>
-        <option value="1800000-2500000">1.800.000 - 2.500.000 ₺</option>
-        <option value="2500000-3500000">2.500.000 - 3.500.000 ₺</option>
-        <option value="3500000-5000000">3.500.000 - 5.000.000 ₺</option>
-        <option value="5000000-8000000">5.000.000 - 8.000.000 ₺</option>
-        <option value="8000000-99000000">8.000.000 ₺ ve üzeri</option>
-      </select>
+  <div class="finder" id="finder" data-stage="kategori">
+    <aside class="finder-sidebar" id="finderSidebar"></aside>
+    <div class="finder-main" id="finderMain">
+      <nav class="finder-breadcrumb" id="finderBreadcrumb" aria-label="Adımlar"></nav>
+      <div class="finder-filters" id="finderFilters"></div>
+      <div class="finder-stage" id="finderStage"></div>
     </div>
-    <div class="field">
-      <label for="fSegment">Segment</label>
-      <select id="fSegment">
-        <option value="">Tümü</option>
-        <option value="Şehir Aracı">Şehir Aracı</option>
-        <option value="Ekonomi">Ekonomi</option>
-        <option value="Orta Segment">Orta Segment</option>
-        <option value="Orta-Üst Segment">Orta-Üst Segment</option>
-        <option value="Üst Segment">Üst Segment</option>
-        <option value="Lüks">Lüks</option>
-        <option value="Ticari">Ticari</option>
-      </select>
-    </div>
-    <div class="field">
-      <label for="fMarka">Marka</label>
-      <select id="fMarka">
-        <option value="">Tümü</option>
-      </select>
-    </div>
-    <div class="field">
-      <label for="fYakit">Yakıt</label>
-      <select id="fYakit">
-        <option value="">Tümü</option>
-        <option value="Dizel">Dizel</option>
-        <option value="Benzin">Benzin</option>
-        <option value="Hybrid">Hybrid</option>
-      </select>
-    </div>
-  </form>
-
-  <p class="filter-count reveal" id="resultCount">Yükleniyor…</p>
-  <div class="result-grid reveal" id="resultGrid"></div>
-  <div class="result-empty" id="resultEmpty" style="display:none;">
-    <p>Bu kriterlere uyan model bulunamadı. Filtreleri biraz genişletmeyi dene.</p>
   </div>
 </section>
 

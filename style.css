@@ -231,6 +231,70 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .filter-count { max-width: var(--max); margin: 0 auto 18px; color: var(--ink-muted); font-size: .9rem; }
 .filter-count b { color: var(--ink); font-family: var(--font-mono); font-weight: 500; }
 
+/* ============ Kademeli araç bulucu (sahibinden tarzı: kategori > marka > model > detay) ============ */
+.finder { display: flex; gap: 24px; max-width: var(--max); margin: 0 auto; align-items: flex-start; }
+
+.finder-sidebar {
+  flex: 0 0 240px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-md);
+  box-shadow: var(--shadow); padding: 10px; position: sticky; top: 86px;
+}
+.finder-cat-btn {
+  display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; text-align: left;
+  padding: 13px 14px; border-radius: var(--radius); border: none; background: transparent; color: var(--ink);
+  font-size: .92rem; font-weight: 600; cursor: pointer; font-family: var(--font-body);
+}
+.finder-cat-btn:hover { background: var(--surface-2); }
+.finder-cat-btn.active { background: var(--accent); color: var(--accent-ink); }
+.finder-cat-count { font-family: var(--font-mono); font-size: .76rem; opacity: .75; }
+
+.finder-main { flex: 1; min-width: 0; }
+
+.finder-breadcrumb { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; font-size: .85rem; color: var(--ink-muted); margin-bottom: 14px; }
+.finder-breadcrumb button { background: none; border: none; padding: 0; color: var(--primary); font-weight: 700; font-size: inherit; cursor: pointer; font-family: var(--font-body); }
+.finder-breadcrumb .sep { opacity: .5; }
+.finder-breadcrumb .current { color: var(--ink); font-weight: 700; }
+
+.finder-filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+.finder-filter-chip {
+  display: inline-flex; align-items: center; gap: 8px; background: var(--surface-2); border: 1px solid var(--line);
+  border-radius: 999px; padding: 6px 8px 6px 14px; font-size: .8rem; font-weight: 600; color: var(--ink);
+}
+.finder-filter-chip button { background: none; border: none; cursor: pointer; color: var(--ink-muted); font-size: 1rem; line-height: 1; padding: 2px; }
+.finder-filter-chip button:hover { color: var(--danger); }
+
+.finder-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px; }
+.finder-item {
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-md); padding: 16px;
+  cursor: pointer; text-align: left; box-shadow: var(--shadow); font-family: var(--font-body);
+}
+.finder-item:hover { border-color: var(--primary); }
+.finder-item .fi-name { font-weight: 700; font-size: .94rem; margin-bottom: 4px; }
+.finder-item .fi-meta { font-size: .78rem; color: var(--ink-muted); font-family: var(--font-mono); }
+
+.finder-empty { color: var(--ink-muted); padding: 60px 10px; text-align: center; }
+.finder-stage-title { margin: 0 0 14px; font-size: 1.05rem; font-weight: 700; }
+
+.finder-detail-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-md); box-shadow: var(--shadow-md); padding: 26px; max-width: 640px; }
+.finder-chip-row { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 22px; }
+.finder-chip {
+  padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  font-size: .85rem; font-weight: 600; cursor: pointer; font-family: var(--font-body);
+}
+.finder-chip:hover { border-color: var(--primary); }
+.finder-chip.active { background: var(--primary); border-color: var(--primary); color: var(--primary-ink); }
+.finder-kicker { font-size: .78rem; font-weight: 700; color: var(--ink-muted); text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+
+@media (max-width: 880px) {
+  .finder { display: block; }
+  .finder-sidebar { position: static; display: none; border-radius: 0; border: none; box-shadow: none; padding: 0; min-height: calc(100vh - 210px); }
+  .finder-main { display: none; min-height: calc(100vh - 210px); }
+  .finder[data-stage="kategori"] .finder-sidebar { display: block; }
+  .finder[data-stage="marka"] .finder-main,
+  .finder[data-stage="model"] .finder-main,
+  .finder[data-stage="detay"] .finder-main { display: block; }
+  .finder-cat-btn { padding: 17px 4px; font-size: 1rem; border-bottom: 1px solid var(--line); border-radius: 0; }
+}
+
 /* ============ Result cards (arac-bul list) ============ */
 .result-grid { max-width: var(--max); margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
 .result-card {
